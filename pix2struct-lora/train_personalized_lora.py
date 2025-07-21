@@ -345,7 +345,7 @@ def main():
     
     # Train
     logger.info("🚀 Starting LoRA personalized training...")
-    trainer.fit(model, data_module) aergaeygy
+    trainer.fit(model, data_module)
     
     # Save final adapter
     final_path = Path("outputs/final_lora_adapter")
