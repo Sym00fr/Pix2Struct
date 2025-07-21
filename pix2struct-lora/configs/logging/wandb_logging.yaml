@@ -1,0 +1,27 @@
+# Logging configuration
+# configs/logging/wandb_logging.yaml
+
+use_wandb: true
+project_name: "pix2struct-sketch-to-code"
+run_name: null  # Will be auto-generated
+entity: null  # Your wandb entity/username
+
+# Logging frequency
+log_every_n_steps: 50
+save_dir: "./logs"
+
+# What to log
+log_model: false  # Don't log model to wandb (too large)
+log_gradients: false
+log_parameters: false
+
+# Wandb settings
+wandb:
+  mode: "online"  # or "offline" for no internet
+  tags: ["pix2struct", "sketch2code", "fine-tuning"]
+  notes: "Fine-tuning Pix2Struct for sketch-to-code generation"
+  group: "pix2struct_experiments"
+  
+# Sample logging
+log_samples: true
+log_sample_frequency: 500  # Every N steps

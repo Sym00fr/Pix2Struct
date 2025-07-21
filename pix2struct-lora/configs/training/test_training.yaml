@@ -1,0 +1,40 @@
+# Test training configuration for one epoch testing
+# configs/training/test_training.yaml
+
+# Training parameters
+max_epochs: 1  # Single epoch for testing
+max_steps: -1  # Let epoch control training length
+batch_size: 2  # Small batch size for testing
+gradient_accumulation_steps: 1  # No accumulation for testing
+gradient_clip_val: 1.0
+num_gpus: 1  # Single GPU for testing
+
+# Optimization
+learning_rate: 1e-4  # Slightly higher LR for single epoch
+weight_decay: 0.01
+warmup_steps: 10  # Minimal warmup
+scheduler: "linear_warmup"
+
+# Precision and performance
+precision: "16-mixed"  # Use mixed precision for better performance on M1/MPS
+compile: false
+
+# Validation
+val_check_interval: 1.0  # Check validation at end of epoch
+limit_val_batches: 0.1  # Only 10% of validation data
+limit_train_batches: 0.05  # Only 5% of training data for speed
+
+# Checkpointing
+checkpoint_dir: "./test_checkpoints"
+save_top_k: 1
+save_last: false  # Don't save last for tests
+monitor: "val_loss"
+mode: "min"
+
+# Testing
+run_test: false  # Skip test set for training test
+limit_test_batches: 0.1
+
+# Early stopping (disabled for testing)
+early_stopping:
+  enabled: false 

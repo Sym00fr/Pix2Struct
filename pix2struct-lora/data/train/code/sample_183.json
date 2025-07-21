@@ -1,0 +1,352 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"1\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 1-->\n  </head>\n  <body class=\"\">\n    <div class=\"d-flex \" id=\"full-wrapper\">\n      <div class=\"w-100\">\n        <header class=\"bg-light shadow-lg d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 25vh;\">\n          <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Deserunt Aliqua Magna Minim Velit Nostrud Officia Sed</h1>\n        </header>\n        <div class=\"container-fluid py-3\" id=\"page-content\">\n          <form class=\"p-3\">\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"ea\">Ea</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"ea\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"esse_est\">Esse est</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"esse_est\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"elit_aliquip_nostrud\">Elit aliquip nostrud</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"elit_aliquip_nostrud\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"velit\">Velit</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"velit\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"sunt_est_nulla\">Sunt est nulla</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"sunt_est_nulla\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"non_elit_deserunt\">Non elit deserunt</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"non_elit_deserunt\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-group\">\n              <label data-wg-type=\"label\" for=\"tempor\">Tempor</label>\n              <input class=\"form-control\" data-wg-type=\"text\" id=\"tempor\" type=\"text\">\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"mollit_ex\">Mollit ex</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"mollit_ex\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"cupidatat_magna_velit\">Cupidatat magna velit</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"cupidatat_magna_velit\" type=\"slider\">\n              </div>\n            </div>\n            <div class=\"form-group\">\n              <label data-wg-type=\"label\" for=\"culpa_in_in\">Culpa in in</label>\n              <input class=\"custom-range\" data-wg-type=\"slider\" id=\"culpa_in_in\" type=\"slider\">\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"occaecat_qui\">Occaecat qui</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"occaecat_qui\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"tempor\">Tempor</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"tempor\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-group\">\n              <label data-wg-type=\"label\" for=\"excepteur\">Excepteur</label>\n              <input class=\"form-control\" data-wg-type=\"text\" id=\"excepteur\" type=\"text\">\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"nostrud_eiusmod_consequat\">Nostrud eiusmod consequat</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"nostrud_eiusmod_consequat\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"exercitation_laborum\">Exercitation laborum</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"exercitation_laborum\" type=\"text\">\n              </div>\n            </div>\n          </form>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 346,
+        "name": "rect",
+        "width": 662,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 112,
+        "name": "rect",
+        "width": 662,
+        "x": 0,
+        "y": 113
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 17,
+        "x": 31,
+        "y": 378
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 410
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 60,
+        "x": 31,
+        "y": 464
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 496
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 133,
+        "x": 31,
+        "y": 550
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 582
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 31,
+        "x": 31,
+        "y": 636
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 668
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 98,
+        "x": 31,
+        "y": 722
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 754
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 124,
+        "x": 31,
+        "y": 808
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 840
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 55,
+        "x": 31,
+        "y": 894
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 926
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 60,
+        "x": 31,
+        "y": 980
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 1012
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 158,
+        "x": 31,
+        "y": 1066
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 596,
+        "x": 31,
+        "y": 1099
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 75,
+        "x": 31,
+        "y": 1138
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 596,
+        "x": 31,
+        "y": 1171
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 95,
+        "x": 31,
+        "y": 1210
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 1242
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 55,
+        "x": 31,
+        "y": 1296
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 598,
+        "x": 31,
+        "y": 1328
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 3,
+        "name": "rect",
+        "width": 72,
+        "x": 31,
+        "y": 1382
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.3,
+    "with_header_p": 0.5,
+    "with_navbar_p": 0.7,
+    "with_footer_p": 0.4,
+    "boxed_body_p": 0.2,
+    "generate_alert_p": 0.7,
+    "sidebar_first_p": 0.5,
+    "navbar_first_p": 0.8,
+    "bg_color_classes_p": [
+      0.8,
+      0.1,
+      0.1
+    ],
+    "layouts_p": [
+      0.4,
+      0.3,
+      0.2,
+      0.1
+    ]
+  },
+  "sample_id": 262
+}

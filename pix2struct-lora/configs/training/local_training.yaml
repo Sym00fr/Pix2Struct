@@ -1,0 +1,44 @@
+# Local training configuration for testing
+# configs/training/local_training.yaml
+
+# Training parameters - reduced for local testing
+max_epochs: 1
+max_steps: 5  # Very small for quick testing
+batch_size: 1  # Very small batch size
+gradient_accumulation_steps: 1  # No accumulation for simplicity
+gradient_clip_val: 1.0
+num_gpus: 0  # Use CPU only to avoid memory issues
+
+# Optimization - same as production
+learning_rate: 5e-5
+weight_decay: 0.01
+warmup_steps: 2  # Minimal warmup steps
+scheduler: "linear_warmup"
+
+# Precision and performance
+precision: "32"  # Use full precision on CPU
+compile: false
+
+# Validation - minimal for quick feedback
+val_check_interval: 1.0  # Check validation at end of epoch
+limit_val_batches: 1  # Use only 1 batch for validation
+
+# Checkpointing - DISABLED for local testing
+checkpoint_dir: null  # Disable checkpointing
+save_top_k: 0  # Don't save any checkpoints
+save_last: false  # Don't save last checkpoint
+monitor: "val_loss"
+mode: "min"
+
+# Testing
+run_test: false  # Skip testing for quick local runs
+limit_test_batches: 1  # Use 1 batch for testing
+
+# Early stopping (disabled for local testing)
+early_stopping:
+  enabled: false
+  patience: 3
+  min_delta: 0.001 
+
+logging:
+  use_wandb: true  # Enable wandb 

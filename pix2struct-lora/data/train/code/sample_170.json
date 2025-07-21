@@ -1,0 +1,280 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"3\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 3-->\n  </head>\n  <body class=\"\">\n    <div class=\"px-sm-5 px-3 py-1 \" id=\"full-wrapper\">\n      <header class=\"bg-light rounded shadow d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 26vh;\">\n        <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Sunt Culpa Officia Consequat Irure Id Excepteur</h1>\n      </header>\n      <div class=\"d-flex\">\n        <div class=\"container-fluid py-3\" id=\"page-content\">\n          <div class=\"row wg-detect\">\n            <div class=\"col\">\n              <div class=\"card-columns\">\n                <div class=\"text-black shadow card\" data-wg-type=\"card\">\n                  <div class=\"card-body\">\n                    <h5 class=\"card-title\" data-wg-type=\"label\">Lorem dolor sed do</h5>\n                    <p class=\"card-text\" data-wg-type=\"label\">Exercitation sed lorem aliquip aute non qui veniam</p>\n                    <div class=\"d-flex justify-content-between align-items-center\">\n                      <div class=\"btn-group\">\n                        <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Eiusmod in ea</button>\n                      </div>\n                      <small class=\"text-muted\" data-wg-type=\"label\">Officia quis</small>\n                    </div>\n                  </div>\n                </div>\n                <div class=\"text-black shadow card\" data-wg-type=\"card\">\n                  <div class=\"card-body\">\n                    <h5 class=\"card-title\" data-wg-type=\"label\">Sed qui aute officia</h5>\n                    <p class=\"card-text\" data-wg-type=\"label\">Commodo exercitation nulla dolor commodo est irure</p>\n                    <div class=\"d-flex justify-content-between align-items-center\">\n                      <div class=\"btn-group\">\n                        <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Aliqua lorem</button>\n                      </div>\n                      <small class=\"text-muted\" data-wg-type=\"label\">Culpa dolor</small>\n                    </div>\n                  </div>\n                </div>\n                <div class=\"text-black shadow card\" data-wg-type=\"card\">\n                  <div class=\"card-body\">\n                    <h5 class=\"card-title\" data-wg-type=\"label\">Et anim qui aute sit</h5>\n                    <p class=\"card-text\" data-wg-type=\"label\">Aute commodo nisi sed nostrud amet veniam ut ea ex</p>\n                    <div class=\"d-flex justify-content-between align-items-center\">\n                      <div class=\"btn-group\">\n                        <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Elit irure ex</button>\n                      </div>\n                      <small class=\"text-muted\" data-wg-type=\"label\">Laborum ea ex</small>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n          <div class=\"wg-detect\" data-wg-type=\"descriptive_items\">\n            <div class=\"row\">\n              <div class=\"col\">\n                <h2 data-wg-type=\"label\">Minim ipsum lorem adipiscing laboris exercitation quis, commodo magna culpa nostrud eu nisi.</h2>\n                <p><br>\n                  <img class=\"float-left m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 211px;height: 274px;\"></img>\n                  <span data-wg-type=\"text_area\">Dolor nulla dolor aliquip est ad. Ea laborum excepteur occaecat ullamco aliquip. Amet laboris deserunt nisi anim ex cupidatat aliquip, elit anim labore sunt, voluptate amet magna et pariatur aute velit. Reprehenderit nisi ex mollit aute exercitation laboris tempor. Eiusmod elit officia aliquip, eiusmod voluptate enim minim cillum velit. Non eiusmod fugiat cillum ipsum, adipiscing incididunt officia id cupidatat, sunt eiusmod lorem et minim non. Officia sint irure elit est, elit nulla commodo nulla. Labore qui nostrud deserunt, elit cillum excepteur sit sint anim. Magna duis irure reprehenderit et deserunt veniam consequat. Tempor minim excepteur velit do quis, dolor non ipsum esse minim qui enim.\nAliquip cillum dolore consectetur duis sit do fugiat, exercitation incididunt do anim enim dolore do consequat, mollit ad amet anim duis sint magna id. Laborum enim anim reprehenderit ea ipsum occaecat. Est ad sed excepteur aliquip laboris irure elit, velit proident labore dolor elit. Nisi in duis eu mollit quis dolore. Dolor laborum esse sed. Ea nulla amet commodo duis sit lorem do.\nUt ut ex labore. Est esse ea in, esse nostrud exercitation culpa minim aliquip quis labore. Voluptate labore sit consectetur magna consectetur sint. Laboris sunt adipiscing magna cupidatat, eu culpa elit cillum, reprehenderit commodo fugiat minim cillum nostrud voluptate. Sunt exercitation nostrud duis quis. Cupidatat ullamco enim veniam lorem deserunt deserunt, nulla commodo aliquip reprehenderit exercitation. Pariatur nulla enim deserunt amet excepteur id laboris. Do reprehenderit eiusmod cupidatat mollit adipiscing.</span>\n                </p>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n      <footer class=\"bg-light rounded shadow jumbotron mb-0\" data-wg-type=\"footer\" style=\"height: 13vh;\">\n        <div class=\"container\">\n          <span class=\"text-muted\" data-wg-type=\"label\">Nisi sunt excepteur cillum ipsum eiusmod veniam et</span>\n        </div>\n      </footer>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 361,
+        "name": "rect",
+        "width": 536,
+        "x": 48,
+        "y": 4
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 112,
+        "name": "rect",
+        "width": 536,
+        "x": 48,
+        "y": 124
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "card"
+      },
+      "shape_attributes": {
+        "height": 264,
+        "name": "rect",
+        "width": 153,
+        "x": 63,
+        "y": 381
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 113,
+        "x": 84,
+        "y": 402
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 96,
+        "name": "rect",
+        "width": 113,
+        "x": 84,
+        "y": 462
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 50,
+        "name": "rect",
+        "width": 71,
+        "x": 84,
+        "y": 574
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 40,
+        "x": 157,
+        "y": 581
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "card"
+      },
+      "shape_attributes": {
+        "height": 288,
+        "name": "rect",
+        "width": 153,
+        "x": 238,
+        "y": 381
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 113,
+        "x": 259,
+        "y": 402
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 120,
+        "name": "rect",
+        "width": 113,
+        "x": 259,
+        "y": 462
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 50,
+        "name": "rect",
+        "width": 64,
+        "x": 259,
+        "y": 598
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 46,
+        "x": 325,
+        "y": 605
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "card"
+      },
+      "shape_attributes": {
+        "height": 285,
+        "name": "rect",
+        "width": 153,
+        "x": 413,
+        "y": 381
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 113,
+        "x": 434,
+        "y": 402
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 96,
+        "name": "rect",
+        "width": 113,
+        "x": 434,
+        "y": 462
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 71,
+        "name": "rect",
+        "width": 55,
+        "x": 434,
+        "y": 574
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 56,
+        "x": 491,
+        "y": 591
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "descriptive_items"
+      },
+      "shape_attributes": {
+        "height": 708,
+        "name": "rect",
+        "width": 506,
+        "x": 63,
+        "y": 683
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 115,
+        "name": "rect",
+        "width": 506,
+        "x": 63,
+        "y": 683
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 274,
+        "name": "rect",
+        "width": 211,
+        "x": 71,
+        "y": 838
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 558,
+        "name": "rect",
+        "width": 506,
+        "x": 63,
+        "y": 833
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.1,
+    "with_header_p": 0.3,
+    "with_navbar_p": 0.3,
+    "with_footer_p": 0.2,
+    "boxed_body_p": 0.4,
+    "generate_alert_p": 0.3,
+    "sidebar_first_p": 0.3,
+    "navbar_first_p": 0.4,
+    "bg_color_classes_p": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "layouts_p": [
+      0.3,
+      0.2,
+      0.2,
+      0.3
+    ]
+  },
+  "sample_id": 249
+}

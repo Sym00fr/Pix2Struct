@@ -1,0 +1,30 @@
+# Training configuration for Pix2Struct Sketch-to-Code
+# configs/train_config.yaml
+
+defaults:
+  - model: pix2struct_large
+  - data: sketch_code_data
+  - training: default_training
+  - logging: wandb_logging
+
+# Global settings
+seed: 42
+experiment_name: "pix2struct_sketch2code_v1"
+
+# Override specific settings for SLURM/A100 setup
+training:
+  num_gpus: 4
+  batch_size: 4  # Per GPU batch size
+  gradient_accumulation_steps: 4  # Effective batch size = 4 * 4 * 4 = 64
+  max_epochs: 10
+  max_steps: 50000
+  
+data:
+  num_workers: 8  # Per GPU
+
+# Hydra configuration
+hydra:
+  run:
+    dir: ./outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
+  job:
+    chdir: true

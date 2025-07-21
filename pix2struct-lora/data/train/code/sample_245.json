@@ -1,0 +1,340 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"4\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 4-->\n  </head>\n  <body class=\"\">\n    <div class=\" rounded\" id=\"full-wrapper\">\n      <div class=\"d-flex\">\n        <div class=\"bg-light rounded\" data-wg-type=\"sidebar\" id=\"sidebar-wrapper\">\n          <div class=\"sidebar-heading\" data-wg-type=\"label\">Incididunt</div>\n          <div class=\"list-group list-group-flush\" style=\"width:26vh;\">\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Eu quis sed</a>\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Lorem enim ex</a>\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Quis sed est</a>\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Occaecat sit</a>\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Voluptate sed</a>\n            <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Veniam est ea</a>\n          </div>\n        </div>\n        <div class=\"w-100\">\n          <header class=\"bg-light rounded d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 24vh;\">\n            <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Esse Tempor Reprehenderit Mollit</h1>\n          </header>\n          <nav class=\"bg-light navbar-light rounded navbar navbar-expand-md\" data-wg-type=\"navbar\">\n            <button class=\"navbar-toggler\" data-target=\"#main-nav\" data-toggle=\"collapse\" type=\"button\">\n              <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"main-nav\" style=\"height: 9vh;\">\n              <ul class=\"navbar-nav mr-auto\">\n                <li class=\"nav-item\">\n                  <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Ullamco qui</a>\n                </li>\n                <li class=\"nav-item\">\n                  <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Deserunt nisi</a>\n                </li>\n                <li class=\"nav-item\">\n                  <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Magna sunt eu</a>\n                </li>\n              </ul>\n            </div>\n          </nav>\n          <div class=\"container-fluid py-3\" id=\"page-content\">\n            <div class=\"wg-detect\" data-wg-type=\"descriptive_items\">\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Voluptate nostrud ullamco velit.</h2>\n                  <p><br>\n                    <img class=\"mx-auto m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 103px;height: 61px;\"></img>\n                    <span data-wg-type=\"text_area\">Labore laboris sit nisi mollit deserunt mollit aliquip. Minim lorem culpa aliqua nostrud tempor minim. Irure veniam culpa labore magna aliquip culpa minim. In cupidatat cillum sunt mollit, ipsum fugiat eu ex, do commodo exercitation excepteur minim sed consectetur ea. In dolore adipiscing in fugiat ut. Proident incididunt laborum proident est cupidatat, ex est tempor duis cillum adipiscing sed. Lorem sunt do ut. Exercitation adipiscing eiusmod qui, id ex id eu. Veniam deserunt fugiat aute in proident quis.\nCillum consectetur ex id sint amet cupidatat in. Fugiat deserunt ipsum tempor ipsum fugiat et. Anim veniam duis ad magna. Adipiscing tempor esse mollit velit consectetur est ea. Aliqua ullamco et nulla. Veniam excepteur labore quis officia lorem esse nulla, sit eiusmod quis pariatur qui amet ut aliquip. Magna laborum ullamco aliqua ut. Reprehenderit aliquip veniam ex mollit eiusmod. Consequat incididunt et mollit occaecat minim id, enim qui ea reprehenderit ad.\nQuis laborum sit anim nisi esse. Cupidatat ad tempor enim velit labore sint, quis proident commodo deserunt exercitation sed commodo quis. Incididunt fugiat fugiat reprehenderit. Sed excepteur duis culpa voluptate et id. Sed elit sint irure excepteur anim, dolor sint est aliquip mollit pariatur officia. Sunt mollit cillum lorem ullamco voluptate excepteur.</span>\n                  </p>\n                </div>\n              </div>\n            </div>\n            <div class=\"m-3 wg-detect\">\n              <div class=\"nav nav-tabs\">\n                <a aria-controls=\"magna\" class=\"nav-item nav-link active\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#magna\" id=\"magna-tab\" role=\"tab\">Magna</a>\n                <a aria-controls=\"est\" class=\"nav-item nav-link\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#est\" id=\"est-tab\" role=\"tab\">Est</a>\n                <a aria-controls=\"reprehenderit\" class=\"nav-item nav-link\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#reprehenderit\" id=\"reprehenderit-tab\" role=\"tab\">Reprehenderit</a>\n                <a aria-controls=\"culpa\" class=\"nav-item nav-link\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#culpa\" id=\"culpa-tab\" role=\"tab\">Culpa</a>\n              </div>\n              <div class=\"tab-content\">\n                <div aria-labelledby=\"magna\" class=\"tab-pane fade border p-3 show active\" data-wg-type=\"text\" id=\"magna\" role=\"tabpanel\">Consectetur et fugiat sed et ullamco. Laborum reprehenderit minim non, pariatur irure eu elit consectetur est. Duis et nulla velit laborum lorem enim, occaecat qui in nulla duis excepteur irure, mollit ex incididunt commodo enim aliquip.</div>\n                <div aria-labelledby=\"est\" class=\"tab-pane fade border p-3\" data-wg-type=\"text\" id=\"est\" role=\"tabpanel\">Eu nostrud consequat tempor ullamco, quis mollit incididunt proident nisi cillum ut. Exercitation cillum adipiscing sit, proident enim laborum sint magna, fugiat eu fugiat ipsum dolor sit.</div>\n                <div aria-labelledby=\"reprehenderit\" class=\"tab-pane fade border p-3\" data-wg-type=\"text\" id=\"reprehenderit\" role=\"tabpanel\">Labore dolor pariatur eu sunt, aute ex et fugiat est irure minim et. Cillum nostrud et ipsum.</div>\n                <div aria-labelledby=\"culpa\" class=\"tab-pane fade border p-3\" data-wg-type=\"text\" id=\"culpa\" role=\"tabpanel\">Eu cupidatat ullamco labore eiusmod lorem enim cillum, magna enim ad est veniam minim, ea adipiscing sunt laborum sit laborum. Non voluptate irure reprehenderit ipsum, qui mollit adipiscing eiusmod id sunt proident lorem.</div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n      <footer class=\"bg-light rounded jumbotron mb-0\" data-wg-type=\"footer\" style=\"height: 8vh;\">\n        <div class=\"container\">\n          <span class=\"text-muted\" data-wg-type=\"label\">Magna reprehenderit do et veniam in aliqua eu qui</span>\n        </div>\n      </footer>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "sidebar"
+      },
+      "shape_attributes": {
+        "height": 991,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 56,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 56
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 105
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 154
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 203
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 252
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 157,
+        "x": 0,
+        "y": 301
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 237,
+        "name": "rect",
+        "width": 615,
+        "x": 157,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 64,
+        "name": "rect",
+        "width": 602,
+        "x": 163,
+        "y": 82
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "navbar"
+      },
+      "shape_attributes": {
+        "height": 105,
+        "name": "rect",
+        "width": 615,
+        "x": 157,
+        "y": 237
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 101,
+        "x": 173,
+        "y": 270
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 110,
+        "x": 274,
+        "y": 270
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 123,
+        "x": 385,
+        "y": 270
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "descriptive_items"
+      },
+      "shape_attributes": {
+        "height": 571,
+        "name": "rect",
+        "width": 585,
+        "x": 172,
+        "y": 359
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 585,
+        "x": 172,
+        "y": 359
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 61,
+        "name": "rect",
+        "width": 103,
+        "x": 172,
+        "y": 437
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 454,
+        "name": "rect",
+        "width": 584,
+        "x": 172,
+        "y": 457
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 81,
+        "x": 188,
+        "y": 946
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 54,
+        "x": 271,
+        "y": 946
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 134,
+        "x": 328,
+        "y": 946
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 73,
+        "x": 465,
+        "y": 946
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 3,
+        "name": "rect",
+        "width": 551,
+        "x": 188,
+        "y": 988
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 104,
+        "name": "rect",
+        "width": 582,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 80,
+        "name": "rect",
+        "width": 582,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 104,
+        "name": "rect",
+        "width": 582,
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.9,
+    "with_header_p": 0.9,
+    "with_navbar_p": 0.5,
+    "with_footer_p": 0.8,
+    "boxed_body_p": 0.1,
+    "generate_alert_p": 0.5,
+    "sidebar_first_p": 0.9,
+    "navbar_first_p": 0.6,
+    "bg_color_classes_p": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "layouts_p": [
+      0.1,
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  "sample_id": 354
+}

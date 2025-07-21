@@ -1,0 +1,520 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"1\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 1-->\n  </head>\n  <body class=\"\">\n    <div class=\"d-flex \" id=\"full-wrapper\">\n      <div class=\"bg-light rounded\" data-wg-type=\"sidebar\" id=\"sidebar-wrapper\">\n        <div class=\"list-group list-group-flush\" style=\"width:23vh;\">\n          <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Reprehenderit</a>\n          <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Ut labore qui</a>\n        </div>\n      </div>\n      <div class=\"w-100\">\n        <nav class=\"bg-light navbar-light rounded navbar navbar-expand-md\" data-wg-type=\"navbar\">\n          <a class=\"navbar-brand\" data-wg-type=\"label\" href=\"#\">Quis</a>\n          <button class=\"navbar-toggler\" data-target=\"#main-nav\" data-toggle=\"collapse\" type=\"button\">\n            <span class=\"navbar-toggler-icon\"></span>\n          </button>\n          <div class=\"collapse navbar-collapse\" id=\"main-nav\" style=\"height: 9vh;\">\n            <ul class=\"navbar-nav ml-auto\">\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Labore sint</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Esse sed esse</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Consectetur</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Laboris ad in</a>\n              </li>\n            </ul>\n          </div>\n        </nav>\n        <header class=\"bg-light rounded d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 19vh;\">\n          <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Ullamco Qui Culpa Nulla</h1>\n        </header>\n        <div class=\"container-fluid py-3\" id=\"page-content\">\n          <div class=\"row py-3 wg-detect\" data-wg-type=\"featured_items\">\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 119px;height: 119px;\"></img>\n                <h2 data-wg-type=\"label\">Aliqua dolore quis</h2>\n                <p data-wg-type=\"label\">Nostrud magna nulla sunt cillum pariatur aliqua eu</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Sunt anim qui</a>\n              </div>\n            </div>\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 119px;height: 119px;\"></img>\n                <h2 data-wg-type=\"label\">Ex qui elit ad culpa</h2>\n                <p data-wg-type=\"label\">Culpa fugiat sunt velit incididunt magna lorem est</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Eiusmod minim</a>\n              </div>\n            </div>\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 119px;height: 119px;\"></img>\n                <h2 data-wg-type=\"label\">Incididunt anim nisi</h2>\n                <p data-wg-type=\"label\">Fugiat velit nisi sed minim pariatur non est ut et</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Duis anim id</a>\n              </div>\n            </div>\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 119px;height: 119px;\"></img>\n                <h2 data-wg-type=\"label\">Incididunt ea do id</h2>\n                <p data-wg-type=\"label\">Magna ullamco veniam nulla incididunt magna ipsum</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Velit et duis</a>\n              </div>\n            </div>\n          </div>\n          <div class=\"row py-3 wg-detect\" data-wg-type=\"featured_items\">\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 54px;height: 54px;\"></img>\n                <h2 data-wg-type=\"label\">Incididunt quis eu</h2>\n                <p data-wg-type=\"label\">Sunt dolor quis anim commodo officia laboris eu ad</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Aliqua dolor</a>\n              </div>\n            </div>\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 54px;height: 54px;\"></img>\n                <h2 data-wg-type=\"label\">Do culpa velit ipsum</h2>\n                <p data-wg-type=\"label\">Amet nostrud tempor velit officia nulla eiusmod do</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Adipiscing et</a>\n              </div>\n            </div>\n            <div class=\"col\">\n              <div class=\"text-center\">\n                <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 54px;height: 54px;\"></img>\n                <h2 data-wg-type=\"label\">Labore minim id qui</h2>\n                <p data-wg-type=\"label\">Commodo in mollit et eiusmod laborum est qui culpa</p>\n                <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Dolore et do</a>\n              </div>\n            </div>\n          </div>\n          <div class=\"my-3 wg-detect carousel slide\" data-ride=\"carousel\" data-wg-type=\"carousel\" id=\"carousel-ele-2\">\n            <ol class=\"carousel-indicators\">\n              <li class=\"active\" data-slide-to=\"0\" data-target=\"#carousel-ele-2\"></li>\n              <li class=\"\" data-slide-to=\"1\" data-target=\"#carousel-ele-2\"></li>\n              <li class=\"\" data-slide-to=\"2\" data-target=\"#carousel-ele-2\"></li>\n              <li class=\"\" data-slide-to=\"3\" data-target=\"#carousel-ele-2\"></li>\n            </ol>\n            <div class=\"carousel-inner\">\n              <div class=\"carousel-item active\">\n                <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 26vh;\">\n                  <h1 class=\"pt-5\">Dolore ullamco id ea</h1>\n                </div>\n              </div>\n              <div class=\"carousel-item\">\n                <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 26vh;\">\n                  <h1 class=\"pt-5\">Est anim dolor ipsum</h1>\n                </div>\n              </div>\n              <div class=\"carousel-item\">\n                <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 26vh;\">\n                  <h1 class=\"pt-5\">Ad ea laboris velit</h1>\n                </div>\n              </div>\n              <div class=\"carousel-item\">\n                <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 26vh;\">\n                  <h1 class=\"pt-5\">Pariatur pariatur do</h1>\n                </div>\n              </div>\n            </div>\n            <a class=\"carousel-control-prev\" data-slide=\"prev\" href=\"#carousel-ele-2\" role=\"button\">\n              <span class=\"carousel-control-prev-icon\"></span>\n            </a>\n            <a class=\"carousel-control-next\" data-slide=\"next\" href=\"#carousel-ele-2\" role=\"button\">\n              <span class=\"carousel-control-next-icon\"></span>\n            </a>\n          </div>\n        </div>\n        <footer class=\"bg-light rounded jumbotron mb-0\" data-wg-type=\"footer\" style=\"height: 7vh;\">\n          <div class=\"container\">\n            <span class=\"text-muted\" data-wg-type=\"label\">Mollit minim cillum laborum aliqua sint nisi qui</span>\n          </div>\n        </footer>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "sidebar"
+      },
+      "shape_attributes": {
+        "height": 1013,
+        "name": "rect",
+        "width": 166,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 166,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 166,
+        "x": 0,
+        "y": 48
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "navbar"
+      },
+      "shape_attributes": {
+        "height": 107,
+        "name": "rect",
+        "width": 649,
+        "x": 166,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 39,
+        "x": 182,
+        "y": 33
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 96,
+        "x": 369,
+        "y": 33
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 118,
+        "x": 466,
+        "y": 33
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 105,
+        "x": 584,
+        "y": 33
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 108,
+        "x": 690,
+        "y": 33
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 192,
+        "name": "rect",
+        "width": 649,
+        "x": 166,
+        "y": 107
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 64,
+        "name": "rect",
+        "width": 439,
+        "x": 270,
+        "y": 167
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "featured_items"
+      },
+      "shape_attributes": {
+        "height": 448,
+        "name": "rect",
+        "width": 649,
+        "x": 166,
+        "y": 315
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 119,
+        "name": "rect",
+        "width": 119,
+        "x": 183,
+        "y": 331
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 115,
+        "name": "rect",
+        "width": 123,
+        "x": 181,
+        "y": 450
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 96,
+        "name": "rect",
+        "width": 123,
+        "x": 181,
+        "y": 573
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 60,
+        "name": "rect",
+        "width": 121,
+        "x": 181,
+        "y": 685
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 119,
+        "name": "rect",
+        "width": 119,
+        "x": 336,
+        "y": 331
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 115,
+        "name": "rect",
+        "width": 123,
+        "x": 334,
+        "y": 450
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 123,
+        "x": 334,
+        "y": 573
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 60,
+        "name": "rect",
+        "width": 121,
+        "x": 334,
+        "y": 661
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 119,
+        "name": "rect",
+        "width": 119,
+        "x": 499,
+        "y": 331
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 140,
+        "x": 488,
+        "y": 450
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 140,
+        "x": 488,
+        "y": 535
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 112,
+        "x": 501,
+        "y": 623
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 119,
+        "name": "rect",
+        "width": 119,
+        "x": 670,
+        "y": 331
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 140,
+        "x": 659,
+        "y": 450
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 96,
+        "name": "rect",
+        "width": 140,
+        "x": 659,
+        "y": 535
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 108,
+        "x": 674,
+        "y": 647
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "featured_items"
+      },
+      "shape_attributes": {
+        "height": 250,
+        "name": "rect",
+        "width": 649,
+        "x": 166,
+        "y": 763
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 54,
+        "name": "rect",
+        "width": 54,
+        "x": 247,
+        "y": 779
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 186,
+        "x": 181,
+        "y": 833
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 186,
+        "x": 181,
+        "y": 918
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 7,
+        "name": "rect",
+        "width": 110,
+        "x": 218,
+        "y": 1006
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 54,
+        "name": "rect",
+        "width": 54,
+        "x": 463,
+        "y": 779
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 186,
+        "x": 397,
+        "y": 833
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 186,
+        "x": 397,
+        "y": 918
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 7,
+        "name": "rect",
+        "width": 117,
+        "x": 430,
+        "y": 1006
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 54,
+        "name": "rect",
+        "width": 54,
+        "x": 679,
+        "y": 779
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 186,
+        "x": 613,
+        "y": 833
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 186,
+        "x": 613,
+        "y": 918
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 7,
+        "name": "rect",
+        "width": 113,
+        "x": 649,
+        "y": 1006
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.7,
+    "with_header_p": 0.8,
+    "with_navbar_p": 0.9,
+    "with_footer_p": 0.6,
+    "boxed_body_p": 0.0,
+    "generate_alert_p": 1.0,
+    "sidebar_first_p": 0.8,
+    "navbar_first_p": 1.0,
+    "bg_color_classes_p": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "layouts_p": [
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ]
+  },
+  "sample_id": 71
+}

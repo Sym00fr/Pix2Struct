@@ -1,0 +1,810 @@
+{
+  "synthetic_samples": [
+    {
+      "id": "synthetic_0",
+      "base_sample_id": "sample_268",
+      "sketch_path": "sketches/synthetic_0.png",
+      "image_path": "images/synthetic_0.png",
+      "code_path": "code/synthetic_0.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_1",
+      "base_sample_id": "sample_54",
+      "sketch_path": "sketches/synthetic_1.png",
+      "image_path": "images/synthetic_1.png",
+      "code_path": "code/synthetic_1.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_2",
+      "base_sample_id": "sample_149",
+      "sketch_path": "sketches/synthetic_2.png",
+      "image_path": "images/synthetic_2.png",
+      "code_path": "code/synthetic_2.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_3",
+      "base_sample_id": "sample_328",
+      "sketch_path": "sketches/synthetic_3.png",
+      "image_path": "images/synthetic_3.png",
+      "code_path": "code/synthetic_3.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_4",
+      "base_sample_id": "sample_26",
+      "sketch_path": "sketches/synthetic_4.png",
+      "image_path": "images/synthetic_4.png",
+      "code_path": "code/synthetic_4.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_5",
+      "base_sample_id": "sample_292",
+      "sketch_path": "sketches/synthetic_5.png",
+      "image_path": "images/synthetic_5.png",
+      "code_path": "code/synthetic_5.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_6",
+      "base_sample_id": "sample_259",
+      "sketch_path": "sketches/synthetic_6.png",
+      "image_path": "images/synthetic_6.png",
+      "code_path": "code/synthetic_6.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_7",
+      "base_sample_id": "sample_135",
+      "sketch_path": "sketches/synthetic_7.png",
+      "image_path": "images/synthetic_7.png",
+      "code_path": "code/synthetic_7.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_8",
+      "base_sample_id": "sample_214",
+      "sketch_path": "sketches/synthetic_8.png",
+      "image_path": "images/synthetic_8.png",
+      "code_path": "code/synthetic_8.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_9",
+      "base_sample_id": "sample_222",
+      "sketch_path": "sketches/synthetic_9.png",
+      "image_path": "images/synthetic_9.png",
+      "code_path": "code/synthetic_9.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_10",
+      "base_sample_id": "sample_172",
+      "sketch_path": "sketches/synthetic_10.png",
+      "image_path": "images/synthetic_10.png",
+      "code_path": "code/synthetic_10.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_11",
+      "base_sample_id": "sample_129",
+      "sketch_path": "sketches/synthetic_11.png",
+      "image_path": "images/synthetic_11.png",
+      "code_path": "code/synthetic_11.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_12",
+      "base_sample_id": "sample_195",
+      "sketch_path": "sketches/synthetic_12.png",
+      "image_path": "images/synthetic_12.png",
+      "code_path": "code/synthetic_12.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_13",
+      "base_sample_id": "sample_11",
+      "sketch_path": "sketches/synthetic_13.png",
+      "image_path": "images/synthetic_13.png",
+      "code_path": "code/synthetic_13.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_14",
+      "base_sample_id": "sample_25",
+      "sketch_path": "sketches/synthetic_14.png",
+      "image_path": "images/synthetic_14.png",
+      "code_path": "code/synthetic_14.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_15",
+      "base_sample_id": "sample_67",
+      "sketch_path": "sketches/synthetic_15.png",
+      "image_path": "images/synthetic_15.png",
+      "code_path": "code/synthetic_15.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_16",
+      "base_sample_id": "sample_175",
+      "sketch_path": "sketches/synthetic_16.png",
+      "image_path": "images/synthetic_16.png",
+      "code_path": "code/synthetic_16.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_17",
+      "base_sample_id": "sample_169",
+      "sketch_path": "sketches/synthetic_17.png",
+      "image_path": "images/synthetic_17.png",
+      "code_path": "code/synthetic_17.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_18",
+      "base_sample_id": "sample_94",
+      "sketch_path": "sketches/synthetic_18.png",
+      "image_path": "images/synthetic_18.png",
+      "code_path": "code/synthetic_18.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_19",
+      "base_sample_id": "sample_52",
+      "sketch_path": "sketches/synthetic_19.png",
+      "image_path": "images/synthetic_19.png",
+      "code_path": "code/synthetic_19.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_20",
+      "base_sample_id": "sample_22",
+      "sketch_path": "sketches/synthetic_20.png",
+      "image_path": "images/synthetic_20.png",
+      "code_path": "code/synthetic_20.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_21",
+      "base_sample_id": "sample_334",
+      "sketch_path": "sketches/synthetic_21.png",
+      "image_path": "images/synthetic_21.png",
+      "code_path": "code/synthetic_21.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_22",
+      "base_sample_id": "sample_221",
+      "sketch_path": "sketches/synthetic_22.png",
+      "image_path": "images/synthetic_22.png",
+      "code_path": "code/synthetic_22.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_23",
+      "base_sample_id": "sample_301",
+      "sketch_path": "sketches/synthetic_23.png",
+      "image_path": "images/synthetic_23.png",
+      "code_path": "code/synthetic_23.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_24",
+      "base_sample_id": "sample_230",
+      "sketch_path": "sketches/synthetic_24.png",
+      "image_path": "images/synthetic_24.png",
+      "code_path": "code/synthetic_24.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_25",
+      "base_sample_id": "sample_280",
+      "sketch_path": "sketches/synthetic_25.png",
+      "image_path": "images/synthetic_25.png",
+      "code_path": "code/synthetic_25.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_26",
+      "base_sample_id": "sample_264",
+      "sketch_path": "sketches/synthetic_26.png",
+      "image_path": "images/synthetic_26.png",
+      "code_path": "code/synthetic_26.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_27",
+      "base_sample_id": "sample_200",
+      "sketch_path": "sketches/synthetic_27.png",
+      "image_path": "images/synthetic_27.png",
+      "code_path": "code/synthetic_27.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_28",
+      "base_sample_id": "sample_135",
+      "sketch_path": "sketches/synthetic_28.png",
+      "image_path": "images/synthetic_28.png",
+      "code_path": "code/synthetic_28.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_29",
+      "base_sample_id": "sample_145",
+      "sketch_path": "sketches/synthetic_29.png",
+      "image_path": "images/synthetic_29.png",
+      "code_path": "code/synthetic_29.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_30",
+      "base_sample_id": "sample_242",
+      "sketch_path": "sketches/synthetic_30.png",
+      "image_path": "images/synthetic_30.png",
+      "code_path": "code/synthetic_30.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_31",
+      "base_sample_id": "sample_173",
+      "sketch_path": "sketches/synthetic_31.png",
+      "image_path": "images/synthetic_31.png",
+      "code_path": "code/synthetic_31.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_32",
+      "base_sample_id": "sample_250",
+      "sketch_path": "sketches/synthetic_32.png",
+      "image_path": "images/synthetic_32.png",
+      "code_path": "code/synthetic_32.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_33",
+      "base_sample_id": "sample_19",
+      "sketch_path": "sketches/synthetic_33.png",
+      "image_path": "images/synthetic_33.png",
+      "code_path": "code/synthetic_33.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_34",
+      "base_sample_id": "sample_15",
+      "sketch_path": "sketches/synthetic_34.png",
+      "image_path": "images/synthetic_34.png",
+      "code_path": "code/synthetic_34.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_35",
+      "base_sample_id": "sample_269",
+      "sketch_path": "sketches/synthetic_35.png",
+      "image_path": "images/synthetic_35.png",
+      "code_path": "code/synthetic_35.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_36",
+      "base_sample_id": "sample_69",
+      "sketch_path": "sketches/synthetic_36.png",
+      "image_path": "images/synthetic_36.png",
+      "code_path": "code/synthetic_36.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_37",
+      "base_sample_id": "sample_86",
+      "sketch_path": "sketches/synthetic_37.png",
+      "image_path": "images/synthetic_37.png",
+      "code_path": "code/synthetic_37.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_38",
+      "base_sample_id": "sample_186",
+      "sketch_path": "sketches/synthetic_38.png",
+      "image_path": "images/synthetic_38.png",
+      "code_path": "code/synthetic_38.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_39",
+      "base_sample_id": "sample_187",
+      "sketch_path": "sketches/synthetic_39.png",
+      "image_path": "images/synthetic_39.png",
+      "code_path": "code/synthetic_39.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_40",
+      "base_sample_id": "sample_156",
+      "sketch_path": "sketches/synthetic_40.png",
+      "image_path": "images/synthetic_40.png",
+      "code_path": "code/synthetic_40.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_41",
+      "base_sample_id": "sample_125",
+      "sketch_path": "sketches/synthetic_41.png",
+      "image_path": "images/synthetic_41.png",
+      "code_path": "code/synthetic_41.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_42",
+      "base_sample_id": "sample_215",
+      "sketch_path": "sketches/synthetic_42.png",
+      "image_path": "images/synthetic_42.png",
+      "code_path": "code/synthetic_42.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_43",
+      "base_sample_id": "sample_328",
+      "sketch_path": "sketches/synthetic_43.png",
+      "image_path": "images/synthetic_43.png",
+      "code_path": "code/synthetic_43.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_44",
+      "base_sample_id": "sample_247",
+      "sketch_path": "sketches/synthetic_44.png",
+      "image_path": "images/synthetic_44.png",
+      "code_path": "code/synthetic_44.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_45",
+      "base_sample_id": "sample_57",
+      "sketch_path": "sketches/synthetic_45.png",
+      "image_path": "images/synthetic_45.png",
+      "code_path": "code/synthetic_45.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_46",
+      "base_sample_id": "sample_159",
+      "sketch_path": "sketches/synthetic_46.png",
+      "image_path": "images/synthetic_46.png",
+      "code_path": "code/synthetic_46.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_47",
+      "base_sample_id": "sample_224",
+      "sketch_path": "sketches/synthetic_47.png",
+      "image_path": "images/synthetic_47.png",
+      "code_path": "code/synthetic_47.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_48",
+      "base_sample_id": "sample_329",
+      "sketch_path": "sketches/synthetic_48.png",
+      "image_path": "images/synthetic_48.png",
+      "code_path": "code/synthetic_48.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_49",
+      "base_sample_id": "sample_15",
+      "sketch_path": "sketches/synthetic_49.png",
+      "image_path": "images/synthetic_49.png",
+      "code_path": "code/synthetic_49.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_50",
+      "base_sample_id": "sample_202",
+      "sketch_path": "sketches/synthetic_50.png",
+      "image_path": "images/synthetic_50.png",
+      "code_path": "code/synthetic_50.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_51",
+      "base_sample_id": "sample_26",
+      "sketch_path": "sketches/synthetic_51.png",
+      "image_path": "images/synthetic_51.png",
+      "code_path": "code/synthetic_51.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_52",
+      "base_sample_id": "sample_81",
+      "sketch_path": "sketches/synthetic_52.png",
+      "image_path": "images/synthetic_52.png",
+      "code_path": "code/synthetic_52.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_53",
+      "base_sample_id": "sample_150",
+      "sketch_path": "sketches/synthetic_53.png",
+      "image_path": "images/synthetic_53.png",
+      "code_path": "code/synthetic_53.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_54",
+      "base_sample_id": "sample_119",
+      "sketch_path": "sketches/synthetic_54.png",
+      "image_path": "images/synthetic_54.png",
+      "code_path": "code/synthetic_54.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_55",
+      "base_sample_id": "sample_311",
+      "sketch_path": "sketches/synthetic_55.png",
+      "image_path": "images/synthetic_55.png",
+      "code_path": "code/synthetic_55.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_56",
+      "base_sample_id": "sample_180",
+      "sketch_path": "sketches/synthetic_56.png",
+      "image_path": "images/synthetic_56.png",
+      "code_path": "code/synthetic_56.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_57",
+      "base_sample_id": "sample_199",
+      "sketch_path": "sketches/synthetic_57.png",
+      "image_path": "images/synthetic_57.png",
+      "code_path": "code/synthetic_57.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_58",
+      "base_sample_id": "sample_108",
+      "sketch_path": "sketches/synthetic_58.png",
+      "image_path": "images/synthetic_58.png",
+      "code_path": "code/synthetic_58.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_59",
+      "base_sample_id": "sample_248",
+      "sketch_path": "sketches/synthetic_59.png",
+      "image_path": "images/synthetic_59.png",
+      "code_path": "code/synthetic_59.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_60",
+      "base_sample_id": "sample_248",
+      "sketch_path": "sketches/synthetic_60.png",
+      "image_path": "images/synthetic_60.png",
+      "code_path": "code/synthetic_60.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_61",
+      "base_sample_id": "sample_299",
+      "sketch_path": "sketches/synthetic_61.png",
+      "image_path": "images/synthetic_61.png",
+      "code_path": "code/synthetic_61.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_62",
+      "base_sample_id": "sample_8",
+      "sketch_path": "sketches/synthetic_62.png",
+      "image_path": "images/synthetic_62.png",
+      "code_path": "code/synthetic_62.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_63",
+      "base_sample_id": "sample_160",
+      "sketch_path": "sketches/synthetic_63.png",
+      "image_path": "images/synthetic_63.png",
+      "code_path": "code/synthetic_63.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_64",
+      "base_sample_id": "sample_324",
+      "sketch_path": "sketches/synthetic_64.png",
+      "image_path": "images/synthetic_64.png",
+      "code_path": "code/synthetic_64.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_65",
+      "base_sample_id": "sample_79",
+      "sketch_path": "sketches/synthetic_65.png",
+      "image_path": "images/synthetic_65.png",
+      "code_path": "code/synthetic_65.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_66",
+      "base_sample_id": "sample_297",
+      "sketch_path": "sketches/synthetic_66.png",
+      "image_path": "images/synthetic_66.png",
+      "code_path": "code/synthetic_66.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_67",
+      "base_sample_id": "sample_283",
+      "sketch_path": "sketches/synthetic_67.png",
+      "image_path": "images/synthetic_67.png",
+      "code_path": "code/synthetic_67.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_68",
+      "base_sample_id": "sample_255",
+      "sketch_path": "sketches/synthetic_68.png",
+      "image_path": "images/synthetic_68.png",
+      "code_path": "code/synthetic_68.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_69",
+      "base_sample_id": "sample_228",
+      "sketch_path": "sketches/synthetic_69.png",
+      "image_path": "images/synthetic_69.png",
+      "code_path": "code/synthetic_69.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_70",
+      "base_sample_id": "sample_167",
+      "sketch_path": "sketches/synthetic_70.png",
+      "image_path": "images/synthetic_70.png",
+      "code_path": "code/synthetic_70.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_71",
+      "base_sample_id": "sample_20",
+      "sketch_path": "sketches/synthetic_71.png",
+      "image_path": "images/synthetic_71.png",
+      "code_path": "code/synthetic_71.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_72",
+      "base_sample_id": "sample_45",
+      "sketch_path": "sketches/synthetic_72.png",
+      "image_path": "images/synthetic_72.png",
+      "code_path": "code/synthetic_72.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_73",
+      "base_sample_id": "sample_260",
+      "sketch_path": "sketches/synthetic_73.png",
+      "image_path": "images/synthetic_73.png",
+      "code_path": "code/synthetic_73.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_74",
+      "base_sample_id": "sample_47",
+      "sketch_path": "sketches/synthetic_74.png",
+      "image_path": "images/synthetic_74.png",
+      "code_path": "code/synthetic_74.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_75",
+      "base_sample_id": "sample_292",
+      "sketch_path": "sketches/synthetic_75.png",
+      "image_path": "images/synthetic_75.png",
+      "code_path": "code/synthetic_75.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_76",
+      "base_sample_id": "sample_242",
+      "sketch_path": "sketches/synthetic_76.png",
+      "image_path": "images/synthetic_76.png",
+      "code_path": "code/synthetic_76.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_77",
+      "base_sample_id": "sample_279",
+      "sketch_path": "sketches/synthetic_77.png",
+      "image_path": "images/synthetic_77.png",
+      "code_path": "code/synthetic_77.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_78",
+      "base_sample_id": "sample_230",
+      "sketch_path": "sketches/synthetic_78.png",
+      "image_path": "images/synthetic_78.png",
+      "code_path": "code/synthetic_78.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_79",
+      "base_sample_id": "sample_41",
+      "sketch_path": "sketches/synthetic_79.png",
+      "image_path": "images/synthetic_79.png",
+      "code_path": "code/synthetic_79.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_80",
+      "base_sample_id": "sample_222",
+      "sketch_path": "sketches/synthetic_80.png",
+      "image_path": "images/synthetic_80.png",
+      "code_path": "code/synthetic_80.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_81",
+      "base_sample_id": "sample_93",
+      "sketch_path": "sketches/synthetic_81.png",
+      "image_path": "images/synthetic_81.png",
+      "code_path": "code/synthetic_81.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_82",
+      "base_sample_id": "sample_323",
+      "sketch_path": "sketches/synthetic_82.png",
+      "image_path": "images/synthetic_82.png",
+      "code_path": "code/synthetic_82.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_83",
+      "base_sample_id": "sample_127",
+      "sketch_path": "sketches/synthetic_83.png",
+      "image_path": "images/synthetic_83.png",
+      "code_path": "code/synthetic_83.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_84",
+      "base_sample_id": "sample_264",
+      "sketch_path": "sketches/synthetic_84.png",
+      "image_path": "images/synthetic_84.png",
+      "code_path": "code/synthetic_84.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_85",
+      "base_sample_id": "sample_305",
+      "sketch_path": "sketches/synthetic_85.png",
+      "image_path": "images/synthetic_85.png",
+      "code_path": "code/synthetic_85.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_86",
+      "base_sample_id": "sample_202",
+      "sketch_path": "sketches/synthetic_86.png",
+      "image_path": "images/synthetic_86.png",
+      "code_path": "code/synthetic_86.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_87",
+      "base_sample_id": "sample_139",
+      "sketch_path": "sketches/synthetic_87.png",
+      "image_path": "images/synthetic_87.png",
+      "code_path": "code/synthetic_87.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_88",
+      "base_sample_id": "sample_28",
+      "sketch_path": "sketches/synthetic_88.png",
+      "image_path": "images/synthetic_88.png",
+      "code_path": "code/synthetic_88.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_89",
+      "base_sample_id": "sample_142",
+      "sketch_path": "sketches/synthetic_89.png",
+      "image_path": "images/synthetic_89.png",
+      "code_path": "code/synthetic_89.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_90",
+      "base_sample_id": "sample_264",
+      "sketch_path": "sketches/synthetic_90.png",
+      "image_path": "images/synthetic_90.png",
+      "code_path": "code/synthetic_90.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_91",
+      "base_sample_id": "sample_201",
+      "sketch_path": "sketches/synthetic_91.png",
+      "image_path": "images/synthetic_91.png",
+      "code_path": "code/synthetic_91.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_92",
+      "base_sample_id": "sample_201",
+      "sketch_path": "sketches/synthetic_92.png",
+      "image_path": "images/synthetic_92.png",
+      "code_path": "code/synthetic_92.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_93",
+      "base_sample_id": "sample_284",
+      "sketch_path": "sketches/synthetic_93.png",
+      "image_path": "images/synthetic_93.png",
+      "code_path": "code/synthetic_93.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_94",
+      "base_sample_id": "sample_246",
+      "sketch_path": "sketches/synthetic_94.png",
+      "image_path": "images/synthetic_94.png",
+      "code_path": "code/synthetic_94.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_95",
+      "base_sample_id": "sample_28",
+      "sketch_path": "sketches/synthetic_95.png",
+      "image_path": "images/synthetic_95.png",
+      "code_path": "code/synthetic_95.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_96",
+      "base_sample_id": "sample_190",
+      "sketch_path": "sketches/synthetic_96.png",
+      "image_path": "images/synthetic_96.png",
+      "code_path": "code/synthetic_96.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_97",
+      "base_sample_id": "sample_296",
+      "sketch_path": "sketches/synthetic_97.png",
+      "image_path": "images/synthetic_97.png",
+      "code_path": "code/synthetic_97.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_98",
+      "base_sample_id": "sample_233",
+      "sketch_path": "sketches/synthetic_98.png",
+      "image_path": "images/synthetic_98.png",
+      "code_path": "code/synthetic_98.json",
+      "type": "designer_components_substituted"
+    },
+    {
+      "id": "synthetic_99",
+      "base_sample_id": "sample_45",
+      "sketch_path": "sketches/synthetic_99.png",
+      "image_path": "images/synthetic_99.png",
+      "code_path": "code/synthetic_99.json",
+      "type": "designer_components_substituted"
+    }
+  ],
+  "designer_style_source": "designer_sketches",
+  "total_samples": 100,
+  "generation_params": {
+    "num_designer_components": 230,
+    "substitution_probability": 0.6
+  }
+}

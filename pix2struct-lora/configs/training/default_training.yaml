@@ -1,0 +1,41 @@
+# Training configuration
+# configs/training/default_training.yaml
+
+# Training parameters
+max_epochs: 10
+max_steps: 50000
+batch_size: 4  # Per GPU
+gradient_accumulation_steps: 4
+gradient_clip_val: 1.0
+num_gpus: 4
+
+# Optimization
+learning_rate: 5e-5
+weight_decay: 0.01
+warmup_steps: 2000
+scheduler: "linear_warmup"
+
+# Precision and performance
+precision: "16-mixed"  # Use mixed precision for A100
+compile: false  # PyTorch 2.0 compilation
+
+# Validation
+val_check_interval: 0.25  # Check validation every 25% of epoch
+limit_val_batches: 1.0
+
+# Checkpointing
+checkpoint_dir: "./checkpoints"
+save_top_k: 3
+save_last: true
+monitor: "val_loss"
+mode: "min"
+
+# Testing
+run_test: true
+limit_test_batches: 1.0
+
+# Early stopping (optional)
+early_stopping:
+  enabled: false
+  patience: 3
+  min_delta: 0.001

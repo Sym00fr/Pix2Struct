@@ -1,0 +1,113 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"4\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 4-->\n  </head>\n  <body class=\"px-md-3 \">\n    <div class=\"px-sm-5 px-3 py-8 \" id=\"full-wrapper\">\n      <div class=\"d-flex\">\n        <div class=\"w-100\">\n          <div class=\"container-fluid py-3\" id=\"page-content\">\n            <div class=\"wg-detect\" data-wg-type=\"descriptive_items\">\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Officia irure cupidatat veniam, exercitation eu cillum in aliqua.</h2>\n                  <p><br>\n                    <img class=\"float-left m-2 img\" data-wg-type=\"image\" style=\"background-color: gray;width: 220px;height: 176px;\"></img>\n                    <span data-wg-type=\"text_area\">Ex ad lorem ipsum esse elit. Sunt velit excepteur cupidatat laboris ad eiusmod aliquip. Sint ullamco ipsum excepteur aute, nostrud ea aute ullamco aliqua officia velit commodo. Esse occaecat nostrud eiusmod non qui sed exercitation. Proident enim id ea irure sunt velit pariatur.\nAute velit velit cupidatat qui. Eu officia sint aliquip aute. Amet esse occaecat lorem sint et dolore. Enim non cillum incididunt consequat non. Anim et commodo aute laboris. Mollit culpa in deserunt et officia deserunt. Exercitation voluptate consectetur irure ad qui, reprehenderit aliqua nostrud consequat occaecat aliquip. Est et laboris pariatur amet sint sint consequat, ullamco aliqua esse consequat dolore. Pariatur sit ipsum nisi deserunt ex non ut.\nCulpa nostrud sit eiusmod proident nulla, aute id id sit sint magna cupidatat, dolore amet non cupidatat. Non consequat incididunt in adipiscing cupidatat amet, duis cupidatat esse cupidatat in cillum cillum anim. Enim minim duis ut labore ut elit, voluptate consectetur cillum consequat fugiat ut, lorem nulla pariatur dolore minim sed consectetur mollit. Occaecat voluptate culpa mollit adipiscing cupidatat aute esse. Reprehenderit consequat officia eu in velit eiusmod occaecat.</span>\n                  </p>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Do pariatur ad mollit sint ullamco.</h2>\n                  <p><br>\n                    <img class=\"float-right m-2 img\" data-wg-type=\"image\" style=\"background-color: gray;width: 220px;height: 176px;\"></img>\n                    <span data-wg-type=\"text_area\">Duis ad irure consequat veniam consequat nisi consequat. Irure proident ipsum adipiscing commodo incididunt laborum officia. Cupidatat sint labore dolor velit aute ea, duis incididunt nisi aliquip aute ex nostrud. In in dolore non duis ipsum cillum nostrud, deserunt sunt culpa laborum veniam quis elit enim, voluptate anim laborum minim magna ipsum. Excepteur dolore nisi quis amet non, voluptate amet veniam sed fugiat. Cillum excepteur non amet sunt, aute id ea qui pariatur. Do sint minim cupidatat ad ut est sint. Exercitation qui pariatur esse, officia eiusmod sint commodo non, magna sunt irure anim minim nisi aute.\nReprehenderit cupidatat ipsum aliquip quis ad. Exercitation magna laboris id eiusmod. Et nostrud ipsum commodo duis nostrud. Consectetur do fugiat sint ut qui eiusmod non, dolore sint quis magna sit eu nulla occaecat. Commodo ipsum eu labore in ex in. Velit est eiusmod anim cupidatat. Reprehenderit consectetur ipsum culpa aliqua.\nAute exercitation cillum consectetur. Aute cupidatat aliqua nostrud nostrud sit enim. Elit eiusmod qui eu laboris magna ad. Non sed mollit elit incididunt non. Ut mollit sint sunt non sit est. Eu sit aliquip ullamco nulla ea aliquip aliqua. Laborum sint lorem ea. Do deserunt sunt ut id.</span>\n                  </p>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "descriptive_items"
+      },
+      "shape_attributes": {
+        "height": 1187,
+        "name": "rect",
+        "width": 562,
+        "x": 63,
+        "y": 16
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 562,
+        "x": 63,
+        "y": 16
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 176,
+        "name": "rect",
+        "width": 220,
+        "x": 71,
+        "y": 132
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 474,
+        "name": "rect",
+        "width": 557,
+        "x": 63,
+        "y": 127
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 562,
+        "x": 63,
+        "y": 620
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 176,
+        "name": "rect",
+        "width": 220,
+        "x": 397,
+        "y": 699
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 498,
+        "name": "rect",
+        "width": 562,
+        "x": 63,
+        "y": 694
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.1,
+    "with_header_p": 0.3,
+    "with_navbar_p": 0.3,
+    "with_footer_p": 0.2,
+    "boxed_body_p": 0.4,
+    "generate_alert_p": 0.3,
+    "sidebar_first_p": 0.3,
+    "navbar_first_p": 0.4,
+    "bg_color_classes_p": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "layouts_p": [
+      0.3,
+      0.2,
+      0.2,
+      0.3
+    ]
+  },
+  "sample_id": 331,
+  "source": "designer_components_substituted"
+}

@@ -1,0 +1,35 @@
+# Local training configuration for Pix2Struct Sketch-to-Code
+# configs/local_train_config.yaml
+
+defaults:
+  - model: pix2struct_large
+  - data: sketch_code_data
+  - training: local_training
+  - logging: wandb_logging
+
+# Global settings
+seed: 42
+experiment_name: "pix2struct_sketch2code_test_varied_width"
+
+# Override specific settings for local testing
+training:
+  num_gpus: 1
+  batch_size: 1  # Very small batch size for testing
+  gradient_accumulation_steps: 2
+  max_epochs: 1  # Just 1 epoch for testing
+  max_steps: 10  # Just 10 steps for quick test
+  
+data:
+  num_workers: 1  # Minimal workers for testing
+
+model:
+  max_length: 256  # Shorter sequences for faster training
+
+logging:
+  use_wandb: false  # Disable wandb for local testing
+  log_every_n_steps: 2  # Frequent logging for debugging
+
+# Hydra configuration
+hydra:
+  run:
+    dir: ./outputs/test_varied_width/${now:%Y-%m-%d}/${now:%H-%M-%S} 

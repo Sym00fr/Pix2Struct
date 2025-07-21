@@ -1,0 +1,160 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"4\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 4-->\n  </head>\n  <body class=\"\">\n    <div class=\"\" id=\"full-wrapper\">\n      <div class=\"d-flex\">\n        <div class=\"w-100\">\n          <nav class=\"bg-light navbar-light navbar navbar-expand-md\" data-wg-type=\"navbar\">\n            <button class=\"navbar-toggler\" data-target=\"#main-nav\" data-toggle=\"collapse\" type=\"button\">\n              <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"main-nav\" style=\"height: 5vh;\">\n              <ul class=\"navbar-nav mx-auto\">\n                <li class=\"nav-item\">\n                  <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Culpa quis id</a>\n                </li>\n                <li class=\"nav-item\">\n                  <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Ut id velit</a>\n                </li>\n              </ul>\n            </div>\n          </nav>\n          <div class=\"container-fluid py-3\" id=\"page-content\">\n            <div class=\"wg-detect\" data-wg-type=\"descriptive_items\">\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Tempor proident velit anim non pariatur nostrud.</h2>\n                  <p><br>\n                    <img class=\"float-left m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 257px;height: 282px;\"></img>\n                    <span data-wg-type=\"text_area\">Sit ad irure laboris, sit incididunt labore amet veniam ad sunt ea. Sunt voluptate aliquip reprehenderit. Cupidatat aliqua veniam ut elit eu. Voluptate ipsum voluptate occaecat eiusmod voluptate. Id tempor dolore non adipiscing dolore tempor.\nDuis dolore eiusmod nisi commodo. Est aliqua reprehenderit laborum quis incididunt ullamco. Ex ullamco officia elit magna et non incididunt. Qui et amet magna cupidatat tempor. Adipiscing et aute in aute exercitation, lorem adipiscing pariatur sed ad sed ut. Irure qui duis id commodo. Dolore pariatur ad tempor aliqua ad dolore, eu ex do exercitation irure consequat aliquip dolore. Culpa adipiscing dolore exercitation nisi sit consectetur.\nOfficia ea dolor ex in eiusmod occaecat. Minim ex voluptate eu cupidatat deserunt. Qui id nostrud sunt lorem aliquip anim deserunt, laborum aliqua ad cillum nisi magna proident. Esse sit cillum pariatur tempor. Dolor amet sit adipiscing do deserunt do dolore. Culpa cupidatat fugiat ullamco. Laborum aute aute cupidatat aute. Ut ad nisi sint eiusmod et. Ullamco do magna exercitation et sunt.</span>\n                  </p>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Consequat ut est velit.</h2>\n                  <p><br>\n                    <img class=\"float-right m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 257px;height: 282px;\"></img>\n                    <span data-wg-type=\"text_area\">Non tempor proident consectetur esse quis, quis ad cillum est commodo culpa labore, nostrud anim consectetur reprehenderit nisi eu consequat nostrud. Eiusmod lorem sit laborum. Consectetur ea veniam nulla laboris est pariatur sint, anim sunt est occaecat sunt commodo, labore nulla nulla qui reprehenderit. Duis culpa reprehenderit qui laborum est duis. Anim nostrud culpa excepteur cillum proident. Sit do excepteur quis laborum eu. Lorem laboris irure reprehenderit dolore quis aute aute. Ea ea occaecat aliqua aliquip. Mollit nisi veniam excepteur.\nExercitation sit pariatur aliquip aute. Ipsum velit officia anim quis quis, eu consectetur adipiscing nisi do amet, commodo reprehenderit do laborum tempor quis nulla esse. Sit dolor veniam eu. Incididunt magna incididunt ad. Culpa occaecat do sed et velit nostrud. Ullamco pariatur incididunt enim ipsum nulla magna quis, consequat sint ipsum velit velit sunt irure eu, nulla laboris adipiscing adipiscing adipiscing do occaecat qui. Ullamco nisi labore consequat commodo ut occaecat, pariatur anim sed ipsum id, voluptate dolor sed mollit cupidatat. Amet enim reprehenderit consequat in voluptate aliqua.\nEu adipiscing consectetur nulla, eu esse consectetur voluptate enim non ut. Magna et mollit dolor est adipiscing fugiat, duis et irure excepteur cillum non minim, cillum eiusmod sunt aute laborum quis. Cillum ipsum in sint id tempor dolore nostrud. Laboris dolor pariatur nulla ut amet sint. Proident sunt sunt esse sunt fugiat nostrud consequat.</span>\n                  </p>\n                </div>\n              </div>\n            </div>\n            <div class=\"my-3 wg-detect carousel slide\" data-ride=\"carousel\" data-wg-type=\"carousel\" id=\"carousel-ele-1\">\n              <ol class=\"carousel-indicators\">\n                <li class=\"active\" data-slide-to=\"0\" data-target=\"#carousel-ele-1\"></li>\n                <li class=\"\" data-slide-to=\"1\" data-target=\"#carousel-ele-1\"></li>\n              </ol>\n              <div class=\"carousel-inner\">\n                <div class=\"carousel-item active\">\n                  <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 38vh;\">\n                    <h1 class=\"pt-5\">Sunt sit adipiscing</h1>\n                  </div>\n                </div>\n                <div class=\"carousel-item\">\n                  <div class=\"d-block w-100 text-center\" style=\"background-color: darkgrey; height: 38vh;\">\n                    <h1 class=\"pt-5\">Nostrud sit eiusmod</h1>\n                  </div>\n                </div>\n              </div>\n              <a class=\"carousel-control-prev\" data-slide=\"prev\" href=\"#carousel-ele-1\" role=\"button\">\n                <span class=\"carousel-control-prev-icon\"></span>\n              </a>\n              <a class=\"carousel-control-next\" data-slide=\"next\" href=\"#carousel-ele-1\" role=\"button\">\n                <span class=\"carousel-control-next-icon\"></span>\n              </a>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "navbar"
+      },
+      "shape_attributes": {
+        "height": 73,
+        "name": "rect",
+        "width": 865,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 109,
+        "x": 335,
+        "y": 16
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 84,
+        "x": 445,
+        "y": 16
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "descriptive_items"
+      },
+      "shape_attributes": {
+        "height": 940,
+        "name": "rect",
+        "width": 835,
+        "x": 15,
+        "y": 89
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 835,
+        "x": 15,
+        "y": 89
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 282,
+        "name": "rect",
+        "width": 257,
+        "x": 23,
+        "y": 167
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 330,
+        "name": "rect",
+        "width": 835,
+        "x": 15,
+        "y": 162
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 835,
+        "x": 15,
+        "y": 511
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 282,
+        "name": "rect",
+        "width": 257,
+        "x": 585,
+        "y": 589
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 426,
+        "name": "rect",
+        "width": 833,
+        "x": 15,
+        "y": 584
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "carousel"
+      },
+      "shape_attributes": {
+        "height": 97,
+        "name": "rect",
+        "width": 835,
+        "x": 15,
+        "y": 1045
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.1,
+    "with_header_p": 0.3,
+    "with_navbar_p": 0.3,
+    "with_footer_p": 0.2,
+    "boxed_body_p": 0.4,
+    "generate_alert_p": 0.3,
+    "sidebar_first_p": 0.3,
+    "navbar_first_p": 0.4,
+    "bg_color_classes_p": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "layouts_p": [
+      0.3,
+      0.2,
+      0.2,
+      0.3
+    ]
+  },
+  "sample_id": 197
+}

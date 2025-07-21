@@ -1,0 +1,37 @@
+# Test configuration for one epoch training with Pix2Struct Small
+# configs/test_config.yaml
+
+defaults:
+  - model: pix2struct_small
+  - data: sketch_code_data
+  - training: test_training
+  - logging: wandb_logging
+
+# Global settings
+seed: 42
+experiment_name: "pix2struct_test_one_epoch"
+
+# Override specific settings for testing
+training:
+  num_gpus: 1
+  batch_size: 2  # Small batch for testing
+  gradient_accumulation_steps: 1
+  max_epochs: 1
+  limit_train_batches: 0.05  # Use only 5% of training data
+  limit_val_batches: 0.1    # Use only 10% of validation data
+  
+data:
+  num_workers: 2  # Minimal workers for testing
+  batch_size: 2   # Match training batch size
+
+# Disable wandb for testing
+logging:
+  use_wandb: false
+  use_tensorboard: true
+
+# Hydra configuration for tests
+hydra:
+  run:
+    dir: ./test_outputs/${now:%Y-%m-%d_%H-%M-%S}
+  job:
+    chdir: false  # Don't change directory for tests 

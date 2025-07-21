@@ -1,0 +1,520 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"2\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 2-->\n  </head>\n  <body class=\"\">\n    <div class=\" shadow-lg\" id=\"full-wrapper\">\n      <nav class=\"bg-light navbar-light shadow-lg navbar navbar-expand-md\" data-wg-type=\"navbar\">\n        <a class=\"navbar-brand\" data-wg-type=\"label\" href=\"#\">Ullamco</a>\n        <button class=\"navbar-toggler\" data-target=\"#main-nav\" data-toggle=\"collapse\" type=\"button\">\n          <span class=\"navbar-toggler-icon\"></span>\n        </button>\n        <div class=\"collapse navbar-collapse\" id=\"main-nav\" style=\"height: 10vh;\">\n          <ul class=\"navbar-nav ml-auto\">\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Nostrud elit</a>\n            </li>\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Ex ullamco ad</a>\n            </li>\n          </ul>\n        </div>\n      </nav>\n      <header class=\"bg-light shadow-lg d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 17vh;\">\n        <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Quis Cupidatat Tempor Tempor Officia Qui Occaecat</h1>\n      </header>\n      <div class=\"d-flex\">\n        <div class=\"flex-grow-1\">\n          <div class=\"container-fluid py-3\" id=\"page-content\">\n            <div class=\"row py-3 wg-detect\" data-wg-type=\"featured_items\">\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 85px;height: 85px;\"></img>\n                  <h2 data-wg-type=\"label\">Culpa duis velit ea</h2>\n                  <p data-wg-type=\"label\">Sint qui dolore minim enim adipiscing irure ut id</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Excepteur est</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 85px;height: 85px;\"></img>\n                  <h2 data-wg-type=\"label\">Consequat commodo ut</h2>\n                  <p data-wg-type=\"label\">Aute labore deserunt dolor commodo quis excepteur</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Dolore et qui</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 85px;height: 85px;\"></img>\n                  <h2 data-wg-type=\"label\">Commodo ullamco enim</h2>\n                  <p data-wg-type=\"label\">Ex aliquip est occaecat officia commodo eu in nisi</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Laborum duis</a>\n                </div>\n              </div>\n            </div>\n            <div class=\"row py-3 wg-detect\" data-wg-type=\"featured_items\">\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 129px;height: 129px;\"></img>\n                  <h2 data-wg-type=\"label\">Tempor labore eu est</h2>\n                  <p data-wg-type=\"label\">Amet proident anim cupidatat officia aliquip velit</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Anim duis eu</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 129px;height: 129px;\"></img>\n                  <h2 data-wg-type=\"label\">Proident magna et eu</h2>\n                  <p data-wg-type=\"label\">Est culpa veniam mollit in est laborum tempor sed</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Minim do duis</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 129px;height: 129px;\"></img>\n                  <h2 data-wg-type=\"label\">Magna reprehenderit</h2>\n                  <p data-wg-type=\"label\">Cupidatat non aute amet occaecat tempor veniam do</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Voluptate in</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  img\" data-wg-type=\"image\" style=\"background-color: gray;width: 129px;height: 129px;\"></img>\n                  <h2 data-wg-type=\"label\">Ipsum magna qui esse</h2>\n                  <p data-wg-type=\"label\">Nisi do dolor magna aliquip dolore et in ex culpa</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Mollit elit</a>\n                </div>\n              </div>\n            </div>\n            <div class=\"m-3 wg-detect\">\n              <div class=\"nav nav-pills\">\n                <a aria-controls=\"reprehenderit\" class=\"nav-item nav-link active\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#reprehenderit\" id=\"reprehenderit-tab\" role=\"tab\">Reprehenderit</a>\n                <a aria-controls=\"ea\" class=\"nav-item nav-link\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#ea\" id=\"ea-tab\" role=\"tab\">Ea</a>\n                <a aria-controls=\"voluptate\" class=\"nav-item nav-link\" data-toggle=\"tab\" data-wg-type=\"button\" href=\"#voluptate\" id=\"voluptate-tab\" role=\"tab\">Voluptate</a>\n              </div>\n              <div class=\"tab-content\">\n                <div aria-labelledby=\"reprehenderit\" class=\"tab-pane fade border p-3 show active\" data-wg-type=\"text\" id=\"reprehenderit\" role=\"tabpanel\">Laboris excepteur velit ut elit minim est nostrud. Enim dolor veniam laboris.</div>\n                <div aria-labelledby=\"ea\" class=\"tab-pane fade border p-3\" data-wg-type=\"text\" id=\"ea\" role=\"tabpanel\">Mollit duis cupidatat dolor excepteur id voluptate nulla.</div>\n                <div aria-labelledby=\"voluptate\" class=\"tab-pane fade border p-3\" data-wg-type=\"text\" id=\"voluptate\" role=\"tabpanel\">Adipiscing irure elit sint. Dolor culpa consectetur eiusmod proident esse cillum nulla.</div>\n              </div>\n            </div>\n          </div>\n          <footer class=\"bg-light shadow-lg jumbotron mb-0\" data-wg-type=\"footer\" style=\"height: 16vh;\">\n            <div class=\"container\">\n              <span class=\"text-muted\" data-wg-type=\"label\">Magna nostrud sit aliquip labore cillum velit ut</span>\n            </div>\n          </footer>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "navbar"
+      },
+      "shape_attributes": {
+        "height": 122,
+        "name": "rect",
+        "width": 870,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 71,
+        "x": 16,
+        "y": 41
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 100,
+        "x": 637,
+        "y": 41
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 116,
+        "x": 737,
+        "y": 41
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 180,
+        "name": "rect",
+        "width": 870,
+        "x": 0,
+        "y": 122
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 112,
+        "name": "rect",
+        "width": 870,
+        "x": 0,
+        "y": 152
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "featured_items"
+      },
+      "shape_attributes": {
+        "height": 303,
+        "name": "rect",
+        "width": 870,
+        "x": 0,
+        "y": 318
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 85,
+        "name": "rect",
+        "width": 85,
+        "x": 102,
+        "y": 334
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 260,
+        "x": 15,
+        "y": 419
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 260,
+        "x": 15,
+        "y": 466
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 123,
+        "x": 82,
+        "y": 530
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 85,
+        "name": "rect",
+        "width": 85,
+        "x": 392,
+        "y": 334
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 260,
+        "x": 305,
+        "y": 419
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 260,
+        "x": 305,
+        "y": 504
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 116,
+        "x": 375,
+        "y": 568
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 85,
+        "name": "rect",
+        "width": 85,
+        "x": 682,
+        "y": 334
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 260,
+        "x": 595,
+        "y": 419
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 260,
+        "x": 595,
+        "y": 504
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 122,
+        "x": 662,
+        "y": 568
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "featured_items"
+      },
+      "shape_attributes": {
+        "height": 410,
+        "name": "rect",
+        "width": 870,
+        "x": 0,
+        "y": 622
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 129,
+        "name": "rect",
+        "width": 129,
+        "x": 43,
+        "y": 638
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 186,
+        "x": 15,
+        "y": 767
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 186,
+        "x": 15,
+        "y": 852
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 117,
+        "x": 48,
+        "y": 940
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 129,
+        "name": "rect",
+        "width": 129,
+        "x": 259,
+        "y": 638
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 186,
+        "x": 231,
+        "y": 767
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 186,
+        "x": 231,
+        "y": 852
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 124,
+        "x": 260,
+        "y": 916
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 129,
+        "name": "rect",
+        "width": 129,
+        "x": 478,
+        "y": 638
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 191,
+        "x": 447,
+        "y": 767
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 191,
+        "x": 447,
+        "y": 852
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 110,
+        "x": 487,
+        "y": 940
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 129,
+        "name": "rect",
+        "width": 129,
+        "x": 697,
+        "y": 638
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 115,
+        "name": "rect",
+        "width": 186,
+        "x": 668,
+        "y": 767
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 186,
+        "x": 668,
+        "y": 890
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 89,
+        "x": 716,
+        "y": 978
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 14,
+        "name": "rect",
+        "width": 134,
+        "x": 31,
+        "y": 1048
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 14,
+        "name": "rect",
+        "width": 49,
+        "x": 165,
+        "y": 1048
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 14,
+        "name": "rect",
+        "width": 101,
+        "x": 215,
+        "y": 1048
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 56,
+        "name": "rect",
+        "width": 427,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 56,
+        "name": "rect",
+        "width": 640,
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.9,
+    "with_header_p": 0.9,
+    "with_navbar_p": 0.5,
+    "with_footer_p": 0.8,
+    "boxed_body_p": 0.1,
+    "generate_alert_p": 0.5,
+    "sidebar_first_p": 0.9,
+    "navbar_first_p": 0.6,
+    "bg_color_classes_p": [
+      0.6,
+      0.2,
+      0.2
+    ],
+    "layouts_p": [
+      0.1,
+      0.3,
+      0.3,
+      0.3
+    ]
+  },
+  "sample_id": 238
+}

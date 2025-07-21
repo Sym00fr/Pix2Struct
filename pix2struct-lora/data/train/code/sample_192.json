@@ -1,0 +1,700 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"1\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 1-->\n  </head>\n  <body class=\"\">\n    <div class=\"d-flex \" id=\"full-wrapper\">\n      <div class=\"bg-light\" data-wg-type=\"sidebar\" id=\"sidebar-wrapper\">\n        <div class=\"list-group list-group-flush\" style=\"width:26vh;\">\n          <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Dolore esse</a>\n          <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Labore aliqua</a>\n          <a class=\"list-group-item list-group-item-action\" data-wg-type=\"button\" href=\"#\">Dolore fugiat</a>\n        </div>\n      </div>\n      <div class=\"w-100\">\n        <nav class=\"bg-light navbar-light navbar navbar-expand-md\" data-wg-type=\"navbar\">\n          <a class=\"navbar-brand\" data-wg-type=\"label\" href=\"#\">Excepteur</a>\n          <button class=\"navbar-toggler\" data-target=\"#main-nav\" data-toggle=\"collapse\" type=\"button\">\n            <span class=\"navbar-toggler-icon\"></span>\n          </button>\n          <div class=\"collapse navbar-collapse\" id=\"main-nav\" style=\"height: 9vh;\">\n            <ul class=\"navbar-nav mx-auto\">\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Ullamco velit</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Minim officia</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Culpa do nisi</a>\n              </li>\n              <li class=\"nav-item\">\n                <a class=\"nav-link\" data-wg-type=\"button\" href=\"#\">Do culpa ex</a>\n              </li>\n            </ul>\n          </div>\n        </nav>\n        <div class=\"container-fluid py-3\" id=\"page-content\">\n          <form class=\"p-3\">\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"fugiat_occaecat_consequat\">Fugiat occaecat consequat</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"fugiat_occaecat_consequat\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"consequat\">Consequat</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"consequat\" type=\"slider\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"ea_nulla_reprehenderit\">Ea nulla reprehenderit</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"ea_nulla_reprehenderit\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"labore_id_sint\">Labore id sint</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"labore_id_sint\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"in_reprehenderit\">In reprehenderit</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"in_reprehenderit\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"ipsum_magna_consectetur\">Ipsum magna consectetur</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"ipsum_magna_consectetur\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"voluptate_mollit\">Voluptate mollit</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"voluptate_mollit\" type=\"slider\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"nulla_est_voluptate\">Nulla est voluptate</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"nulla_est_voluptate\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"quis_ex_adipiscing\">Quis ex adipiscing</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"quis_ex_adipiscing\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"dolore_est_nisi\">Dolore est nisi</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"dolore_est_nisi\" type=\"slider\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"enim_excepteur\">Enim excepteur</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"enim_excepteur\" type=\"slider\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"excepteur_anim\">Excepteur anim</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"excepteur_anim\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"id\">Id</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"id\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"cillum_veniam_irure\">Cillum veniam irure</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"cillum_veniam_irure\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"culpa_velit\">Culpa velit</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"culpa_velit\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"labore\">Labore</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"labore\" type=\"slider\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"cillum_minim\">Cillum minim</label>\n                <input class=\"custom-range\" data-wg-type=\"slider\" id=\"cillum_minim\" type=\"slider\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"tempor_duis\">Tempor duis</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"tempor_duis\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"sint_laboris\">Sint laboris</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"sint_laboris\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"et_adipiscing\">Et adipiscing</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"et_adipiscing\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"exercitation_ea_ullamco\">Exercitation ea ullamco</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"exercitation_ea_ullamco\" type=\"text\">\n              </div>\n            </div>\n            <div class=\"form-row\">\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"consequat\">Consequat</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"consequat\" type=\"text\">\n              </div>\n              <div class=\"form-group col-md\">\n                <label data-wg-type=\"label\" for=\"deserunt_sunt_reprehenderit\">Deserunt sunt reprehenderit</label>\n                <input class=\"form-control\" data-wg-type=\"text\" id=\"deserunt_sunt_reprehenderit\" type=\"text\">\n              </div>\n            </div>\n          </form>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "sidebar"
+      },
+      "shape_attributes": {
+        "height": 146,
+        "name": "rect",
+        "width": 523,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": -1,
+        "name": "rect",
+        "width": 100,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": -2,
+        "name": "rect",
+        "width": 100,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": -1,
+        "name": "rect",
+        "width": 100,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "navbar"
+      },
+      "shape_attributes": {
+        "height": 56,
+        "name": "rect",
+        "width": 627,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 40,
+        "name": "rect",
+        "width": 88,
+        "x": 16,
+        "y": 8
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 0,
+        "name": "rect",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 0,
+        "name": "rect",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 0,
+        "name": "rect",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 0,
+        "name": "rect",
+        "width": 0,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 195,
+        "x": 31,
+        "y": 88
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 120
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 78,
+        "x": 31,
+        "y": 174
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 206
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 158,
+        "x": 31,
+        "y": 246
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 278
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 98,
+        "x": 31,
+        "y": 332
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 364
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 115,
+        "x": 31,
+        "y": 418
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 450
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 188,
+        "x": 31,
+        "y": 504
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 536
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 112,
+        "x": 31,
+        "y": 590
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 622
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 134,
+        "x": 31,
+        "y": 662
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 694
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 131,
+        "x": 31,
+        "y": 748
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 780
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 102,
+        "x": 31,
+        "y": 834
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 866
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 111,
+        "x": 31,
+        "y": 906
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 938
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 111,
+        "x": 31,
+        "y": 978
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1010
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 13,
+        "x": 31,
+        "y": 1064
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1096
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 137,
+        "x": 31,
+        "y": 1150
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1182
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 75,
+        "x": 31,
+        "y": 1236
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1268
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 50,
+        "x": 31,
+        "y": 1322
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 1354
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 92,
+        "x": 31,
+        "y": 1394
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "slider"
+      },
+      "shape_attributes": {
+        "height": 18,
+        "name": "rect",
+        "width": 561,
+        "x": 31,
+        "y": 1426
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 89,
+        "x": 31,
+        "y": 1466
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1498
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 80,
+        "x": 31,
+        "y": 1552
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1584
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 92,
+        "x": 31,
+        "y": 1638
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1670
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 167,
+        "x": 31,
+        "y": 1724
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1756
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 78,
+        "x": 31,
+        "y": 1810
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1842
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 24,
+        "name": "rect",
+        "width": 204,
+        "x": 31,
+        "y": 1896
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 563,
+        "x": 31,
+        "y": 1928
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.3,
+    "with_header_p": 0.5,
+    "with_navbar_p": 0.7,
+    "with_footer_p": 0.4,
+    "boxed_body_p": 0.2,
+    "generate_alert_p": 0.7,
+    "sidebar_first_p": 0.5,
+    "navbar_first_p": 0.8,
+    "bg_color_classes_p": [
+      0.8,
+      0.1,
+      0.1
+    ],
+    "layouts_p": [
+      0.4,
+      0.3,
+      0.2,
+      0.1
+    ]
+  },
+  "sample_id": 274
+}

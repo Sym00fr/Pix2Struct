@@ -1,0 +1,19 @@
+# Model configuration for Pix2Struct Small
+# configs/model/pix2struct_small.yaml
+
+model_name: "google/pix2struct-base"  # Small model for testing
+max_length: 512  # Reduced for faster testing
+image_size: [384, 384]  # Smaller image size
+
+# Model-specific parameters
+max_patches: 256  # Fewer patches for faster processing
+vocab_size: 50244
+
+# Generation parameters
+generation:
+  max_length: 512
+  num_beams: 3  # Fewer beams for faster generation
+  early_stopping: true
+  do_sample: false
+  temperature: 1.0
+  pad_token_id: 0 

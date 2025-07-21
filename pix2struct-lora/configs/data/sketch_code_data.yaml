@@ -1,0 +1,23 @@
+# Data configuration for test dataset
+# configs/data/sketch_code_data.yaml
+
+data_dir: "./data"  # Updated to our reorganized dataset
+num_workers: 0  # No multiprocessing to reduce CPU load
+pin_memory: false  # Disable to reduce memory usage
+persistent_workers: false  # Disable for small dataset
+
+# Data splits
+train_split: "train"
+val_split: "val"
+test_split: "test"
+
+# Preprocessing
+# image_size: [512, 512]  # Removed - using multi-resolution
+normalize: true
+
+# Data augmentation (optional)
+augmentation:
+  enabled: false
+  rotation_range: 5
+  brightness_range: [0.9, 1.1]
+  contrast_range: [0.9, 1.1]

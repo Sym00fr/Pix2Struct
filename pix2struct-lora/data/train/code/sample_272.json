@@ -1,0 +1,328 @@
+{
+  "html": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Dominate</title>\n    <meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\">\n    <meta content=\"Web Generator\" name=\"author\">\n    <meta content=\"4\" name=\"wg-layout\">\n    <link href=\"../css/custom-bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"../css/wg-extras.css\" rel=\"stylesheet\">\n    <script src=\"../js/jquery-3.2.1.slim.min.js\" type=\"text/javascript\"></script>\n    <script src=\"../js/bootstrap.min.js\" type=\"text/javascript\"></script>\n    <!--Layout: 4-->\n  </head>\n  <body class=\"px-md-4 \">\n    <div class=\"px-sm-5 px-3 py-0 \" id=\"full-wrapper\">\n      <div class=\"d-flex\">\n        <div class=\"w-100\">\n          <header class=\"bg-light shadow d-flex align-items-center justify-content-center\" data-wg-type=\"header\" style=\"height: 29vh;\">\n            <h1 class=\"p-2 text-center\" data-wg-type=\"label\">Non Elit Sed Dolor</h1>\n          </header>\n          <div class=\"container-fluid py-3\" id=\"page-content\">\n            <div class=\"wg-detect\" data-wg-type=\"descriptive_items\">\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Cupidatat magna do quis.</h2>\n                  <p><br>\n                    <img class=\"float-right m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 213px;height: 213px;\"></img>\n                    <span data-wg-type=\"text_area\">Pariatur reprehenderit in qui ullamco incididunt eiusmod. Cillum culpa sit sed, aute sunt cillum culpa dolore excepteur magna consequat. Mollit anim incididunt veniam cupidatat nostrud. Enim consectetur ea magna non do et esse. Non minim magna excepteur sit ex elit ea.</span>\n                  </p>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Cupidatat ullamco culpa qui et fugiat.</h2>\n                  <p><br>\n                    <img class=\"float-left m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 213px;height: 213px;\"></img>\n                    <span data-wg-type=\"text_area\">Irure voluptate veniam quis occaecat eiusmod, anim tempor veniam quis. Ut est commodo eu nulla sed culpa. Et sint excepteur dolor ut. Elit anim aliquip deserunt velit commodo aliquip. Adipiscing sunt id esse in dolore velit magna. Quis ut do nostrud. Mollit qui sunt sunt non eiusmod. Do aliquip dolore ut. Veniam incididunt irure sunt tempor qui dolor. Do ut occaecat do quis amet eiusmod amet.</span>\n                  </p>\n                </div>\n              </div>\n              <div class=\"row\">\n                <div class=\"col\">\n                  <h2 data-wg-type=\"label\">Nisi ex et qui.</h2>\n                  <p><br>\n                    <img class=\"float-right m-2 shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 213px;height: 213px;\"></img>\n                    <span data-wg-type=\"text_area\">Mollit pariatur eu amet velit ipsum. Non ipsum minim enim in do, ad magna est ad in enim fugiat sunt. Eu cupidatat sunt officia ea cillum elit proident, dolore aliquip commodo voluptate. Duis non aliquip in voluptate reprehenderit aliqua officia, nostrud velit adipiscing exercitation sunt incididunt, quis dolor proident irure non deserunt. Magna nostrud reprehenderit ullamco. Anim cupidatat proident aute ex ex dolor, amet tempor exercitation incididunt quis ad, aute aliquip excepteur eiusmod. Laborum dolor nulla exercitation consectetur, sint sunt deserunt culpa. Est labore velit laboris laborum occaecat sint ut, culpa nulla est elit. Nulla aliqua enim id. Culpa culpa et elit incididunt, aliquip non nisi nulla do dolor cillum.</span>\n                  </p>\n                </div>\n              </div>\n            </div>\n            <div class=\"row py-3 wg-detect\" data-wg-type=\"featured_items\">\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 124px;height: 124px;\"></img>\n                  <h2 data-wg-type=\"label\">Eu elit do irure sed</h2>\n                  <p data-wg-type=\"label\">Amet nostrud culpa consequat ea duis et laborum in</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">In dolor quis</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 124px;height: 124px;\"></img>\n                  <h2 data-wg-type=\"label\">Quis incididunt ex</h2>\n                  <p data-wg-type=\"label\">Dolore irure eu sunt cupidatat ad duis deserunt ex</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Laborum aute</a>\n                </div>\n              </div>\n              <div class=\"col\">\n                <div class=\"text-center\">\n                  <img class=\"text-black rounded-circle mx-auto  shadow img\" data-wg-type=\"image\" style=\"background-color: gray;width: 124px;height: 124px;\"></img>\n                  <h2 data-wg-type=\"label\">Cupidatat magna elit</h2>\n                  <p data-wg-type=\"label\">Dolore deserunt ad do occaecat reprehenderit duis</p>\n                  <a class=\"btn btn-primary\" data-wg-type=\"button\" href=\"#\">Dolor elit id</a>\n                </div>\n              </div>\n            </div>\n            <div class=\"row wg-detect\">\n              <div class=\"col\">\n                <div class=\"card-columns\">\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Duis nulla sunt sint</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Consequat ea veniam voluptate dolore sit cillum ad</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Lorem veniam</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Veniam anim</small>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Ut et sunt nisi sed</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Ea lorem nisi consequat consectetur enim irure est</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Non duis do</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Consectetur</small>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Ut occaecat ut enim</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Minim proident aute eiusmod pariatur qui dolore id</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Sit dolor qui</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Commodo magna</small>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Ullamco eu nostrud</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Pariatur ad deserunt velit proident ea officia ex</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Sint in est</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Velit commodo</small>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Irure voluptate ad</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Qui eiusmod do ea excepteur ipsum cillum id anim</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Pariatur sit</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Nostrud eu do</small>\n                      </div>\n                    </div>\n                  </div>\n                  <div class=\"text-black card\" data-wg-type=\"card\">\n                    <div class=\"card-body\">\n                      <h5 class=\"card-title\" data-wg-type=\"label\">Velit esse anim amet</h5>\n                      <p class=\"card-text\" data-wg-type=\"label\">Voluptate excepteur lorem veniam voluptate eiusmod</p>\n                      <div class=\"d-flex justify-content-between align-items-center\">\n                        <div class=\"btn-group\">\n                          <button class=\"btn btn-sm btn-outline-secondary\" data-wg-type=\"button\" type=\"button\">Qui elit amet</button>\n                        </div>\n                        <small class=\"text-muted\" data-wg-type=\"label\">Est labore in</small>\n                      </div>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </body>\n</html>",
+  "css": ".placeholder {\n    background-color: rgb(189, 189, 189);\n    display: flex;\n}\n\n.placeholder > * {\n    align-self: center;\n    text-align: center;\n    width: 100%;\n}\n\n.text-black {\n  color: rgba(14, 14, 14);\n}\n\n/* TODO: Delete .navbar fixes, is likely they don't apply anymore but we have to check */\n@media (max-height: 900px) { \n    .navbar {\n        min-height: 3vh;\n    }\n}\n\n@media (max-height: 768px) { \n    .navbar {\n        min-height: 4vh;\n    }\n}\n\n@media (max-height: 640px) { \n    .navbar {\n        min-height: 6vh;\n    }\n}\n\n@media (max-height: 480px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 900px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 768px) and (max-width: 991px) { \n    .navbar {\n        min-height: 9vh;\n    }\n}\n\n@media (max-height: 640px) and (max-width: 991px) { \n    .navbar {\n        min-height: 11vh;\n    }\n}\n\n@media (max-height: 480px) and (max-width: 991px) { \n    .navbar {\n        min-height: 15vh;\n    }\n}\n\n@media (max-height: 352px) and (max-width: 991px) { \n    .navbar {\n        min-height: 20vh;\n    }\n}\n\n\n/*! Extracted from official website\n * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template-overviews/simple-sidebar)\n * Copyright 2013-2019 Start Bootstrap\n * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)\n */\n body {\n    overflow-x: hidden;\n  }\n  \n  #sidebar-wrapper {\n    /* min-height: 100vh; */\n    /* margin-left: -15rem; */\n    display: none;\n    -webkit-transition: margin .25s ease-out;\n    -moz-transition: margin .25s ease-out;\n    -o-transition: margin .25s ease-out;\n    transition: margin .25s ease-out;\n  }\n  \n  #sidebar-wrapper .sidebar-heading {\n    padding: 0.875rem 1.25rem;\n    font-size: 1.2rem;\n  }\n  \n  #sidebar-wrapper .list-group {\n    /* width: 15rem; */\n  }\n  \n  #sidebar-wrapper .list-group-item {\n    background: inherit;\n    color: inherit;\n  }\n  \n  #page-content-wrapper {\n    min-width: 100vw;\n  }\n  \n  #wrapper.toggled #sidebar-wrapper {\n    margin-left: 0;\n  }\n  \n   /* Small devices (landscape phones, 576px and up) */\n  @media (min-width: 576px) { \n  \n  }\n  \n   /* Medium devices (tablets, 768px and up) */\n  @media (min-width: 768px) { \n    #sidebar-wrapper {\n      margin-left: 0;\n      display: block;\n    }\n    \n    #sidebar-wrapper .list-group {\n      min-width: 7vw !important;\n      max-width: 20vw;\n    }\n  \n    #page-content-wrapper {\n      min-width: 0;\n      width: 100%;\n    }\n  \n    #wrapper.toggled #sidebar-wrapper {\n      /* margin-left: -30rem; */\n      /* display: none; */\n    }\n  }\n  \n   /* Large devices (desktops, 992px and up) */\n  @media (min-width: 992px) { \n    #sidebar-wrapper .list-group {\n      min-width: 7vw;\n      max-width: 30vw;\n    }\n  }\n  \n   /* Extra large devices (large desktops, 1200px and up) */\n  @media (min-width: 1200px) { \n    #sidebar-wrapper .list-group {\n      min-width: 6vw;\n      max-width: 20vw;\n    }\n  }\n  \n  @media (min-width: 1900px) { \n    #sidebar-wrapper .list-group {\n      min-width: 5vw;\n      max-width: 15vw;\n    }\n  }",
+  "annotations": [
+    {
+      "region_attributes": {
+        "type": "header"
+      },
+      "shape_attributes": {
+        "height": 551,
+        "name": "rect",
+        "width": 705,
+        "x": 72,
+        "y": 0
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 64,
+        "name": "rect",
+        "width": 332,
+        "x": 258,
+        "y": 239
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "descriptive_items"
+      },
+      "shape_attributes": {
+        "height": 973,
+        "name": "rect",
+        "width": 675,
+        "x": 87,
+        "y": 567
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 675,
+        "x": 87,
+        "y": 567
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 213,
+        "name": "rect",
+        "width": 213,
+        "x": 541,
+        "y": 646
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 114,
+        "name": "rect",
+        "width": 433,
+        "x": 87,
+        "y": 641
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 675,
+        "x": 87,
+        "y": 867
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 213,
+        "name": "rect",
+        "width": 213,
+        "x": 95,
+        "y": 945
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 162,
+        "name": "rect",
+        "width": 446,
+        "x": 316,
+        "y": 940
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 38,
+        "name": "rect",
+        "width": 675,
+        "x": 87,
+        "y": 1166
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 213,
+        "name": "rect",
+        "width": 213,
+        "x": 541,
+        "y": 1245
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "text_area"
+      },
+      "shape_attributes": {
+        "height": 282,
+        "name": "rect",
+        "width": 605,
+        "x": 87,
+        "y": 1240
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "featured_items"
+      },
+      "shape_attributes": {
+        "height": 362,
+        "name": "rect",
+        "width": 705,
+        "x": 72,
+        "y": 1541
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 124,
+        "name": "rect",
+        "width": 124,
+        "x": 127,
+        "y": 1557
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 205,
+        "x": 87,
+        "y": 1681
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 205,
+        "x": 87,
+        "y": 1765
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 112,
+        "x": 132,
+        "y": 1853
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 124,
+        "name": "rect",
+        "width": 124,
+        "x": 362,
+        "y": 1557
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 205,
+        "x": 322,
+        "y": 1681
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 72,
+        "name": "rect",
+        "width": 205,
+        "x": 322,
+        "y": 1765
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 124,
+        "x": 361,
+        "y": 1853
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "image"
+      },
+      "shape_attributes": {
+        "height": 124,
+        "name": "rect",
+        "width": 124,
+        "x": 597,
+        "y": 1557
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 76,
+        "name": "rect",
+        "width": 205,
+        "x": 557,
+        "y": 1681
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "label"
+      },
+      "shape_attributes": {
+        "height": 48,
+        "name": "rect",
+        "width": 205,
+        "x": 557,
+        "y": 1765
+      }
+    },
+    {
+      "region_attributes": {
+        "type": "button"
+      },
+      "shape_attributes": {
+        "height": 36,
+        "name": "rect",
+        "width": 106,
+        "x": 605,
+        "y": 1829
+      }
+    }
+  ],
+  "layout_config": {
+    "with_sidebar_p": 0.1,
+    "with_header_p": 0.3,
+    "with_navbar_p": 0.3,
+    "with_footer_p": 0.2,
+    "boxed_body_p": 0.4,
+    "generate_alert_p": 0.3,
+    "sidebar_first_p": 0.3,
+    "navbar_first_p": 0.4,
+    "bg_color_classes_p": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "layouts_p": [
+      0.3,
+      0.2,
+      0.2,
+      0.3
+    ]
+  },
+  "sample_id": 396
+}
