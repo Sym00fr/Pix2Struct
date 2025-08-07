@@ -1,0 +1,16 @@
+{
+  "train": [
+    {"id": 0, "image_path": "train/images/sample_0.png", "sketch_path": "train/sketches/sample_0.png", "code_path": "train/code/sample_0.json", "split": "train"},
+    {"id": 1, "image_path": "train/images/sample_1.png", "sketch_path": "train/sketches/sample_1.png", "code_path": "train/code/sample_1.json", "split": "train"},
+    {"id": 2, "image_path": "train/images/sample_2.png", "sketch_path": "train/sketches/sample_2.png", "code_path": "train/code/sample_2.json", "split": "train"},
+    {"id": 3, "image_path": "train/images/sample_3.png", "sketch_path": "train/sketches/sample_3.png", "code_path": "train/code/sample_3.json", "split": "train"},
+    {"id": 4, "image_path": "train/images/sample_4.png", "sketch_path": "train/sketches/sample_4.png", "code_path": "train/code/sample_4.json", "split": "train"},
+    {"id": 5, "image_path": "train/images/sample_5.png", "sketch_path": "train/sketches/sample_5.png", "code_path": "train/code/sample_5.json", "split": "train"},
+    {"id": 6, "image_path": "train/images/sample_6.png", "sketch_path": "train/sketches/sample_6.png", "code_path": "train/code/sample_6.json", "split": "train"},
+    {"id": 7, "image_path": "train/images/sample_7.png", "sketch_path": "train/sketches/sample_7.png", "code_path": "train/code/sample_7.json", "split": "train"},
+    {"id": 8, "image_path": "train/images/sample_8.png", "sketch_path": "train/sketches/sample_8.png", "code_path": "train/code/sample_8.json", "split": "train"},
+    {"id": 9, "image_path": "train/images/sample_9.png", "sketch_path": "train/sketches/sample_9.png", "code_path": "train/code/sample_9.json", "split": "train"}
+  ],
+  "val": [],
+  "test": []
+}

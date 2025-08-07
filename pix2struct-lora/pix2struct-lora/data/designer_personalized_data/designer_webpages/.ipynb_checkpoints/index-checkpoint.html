@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Designer Style Reference - LoRA Personalization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 20px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .sample-card {
+            border: 2px solid #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            transition: transform 0.3s, box-shadow 0.3s;
+            background-color: white;
+        }
+        .sample-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+        .card-header {
+            background-color: #3498db;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .card-images {
+            display: flex;
+            height: 200px;
+        }
+        .card-image {
+            flex: 1;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+        .image-label {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: rgba(0,0,0,0.7);
+            color: white;
+            padding: 5px;
+            text-align: center;
+            font-size: 12px;
+        }
+        .card-footer {
+            padding: 15px;
+            text-align: center;
+        }
+        .view-btn {
+            background-color: #27ae60;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .view-btn:hover {
+            background-color: #219a52;
+        }
+        .stats-section {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .stat-card {
+            background-color: white;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+            border-left: 4px solid #3498db;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .stat-label {
+            color: #7f8c8d;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎨 Designer Style Reference</h1>
+            <p><strong>LoRA Personalization Project</strong></p>
+            <p>These 10 samples represent the target designer's sketching style that will be used to personalize the Pix2Struct model using LoRA adaptation.</p>
+        </div>
+        
+        <div class="stats-section">
+            <h3>📊 Dataset Overview</h3>
+            <div class="stats-grid">
+
+                <div class="stat-card">
+                    <div class="stat-value">5</div>
+                    <div class="stat-label">Designer Samples</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">156</div>
+                    <div class="stat-label">Total Components</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">31,931</div>
+                    <div class="stat-label">HTML Characters</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">15,595</div>
+                    <div class="stat-label">CSS Characters</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="gallery">
+
+            <div class="sample-card">
+                <div class="card-header">
+                    <h3>Sample 0</h3>
+                    <p>Original ID: 0</p>
+                </div>
+                <div class="card-images">
+                    <div class="card-image" style="background-image: url('../designer_original/images/designer_0.png');">
+                        <div class="image-label">Website Screenshot</div>
+                    </div>
+                    <div class="card-image" style="background-image: url('../designer_original/sketches/designer_0.png');">
+                        <div class="image-label">Designer Sketch</div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="designer_sample_0.html" class="view-btn">View Details</a>
+                </div>
+            </div>
+
+            <div class="sample-card">
+                <div class="card-header">
+                    <h3>Sample 1</h3>
+                    <p>Original ID: 1</p>
+                </div>
+                <div class="card-images">
+                    <div class="card-image" style="background-image: url('../designer_original/images/designer_1.png');">
+                        <div class="image-label">Website Screenshot</div>
+                    </div>
+                    <div class="card-image" style="background-image: url('../designer_original/sketches/designer_1.png');">
+                        <div class="image-label">Designer Sketch</div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="designer_sample_1.html" class="view-btn">View Details</a>
+                </div>
+            </div>
+
+            <div class="sample-card">
+                <div class="card-header">
+                    <h3>Sample 2</h3>
+                    <p>Original ID: 2</p>
+                </div>
+                <div class="card-images">
+                    <div class="card-image" style="background-image: url('../designer_original/images/designer_2.png');">
+                        <div class="image-label">Website Screenshot</div>
+                    </div>
+                    <div class="card-image" style="background-image: url('../designer_original/sketches/designer_2.png');">
+                        <div class="image-label">Designer Sketch</div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="designer_sample_2.html" class="view-btn">View Details</a>
+                </div>
+            </div>
+
+            <div class="sample-card">
+                <div class="card-header">
+                    <h3>Sample 3</h3>
+                    <p>Original ID: 3</p>
+                </div>
+                <div class="card-images">
+                    <div class="card-image" style="background-image: url('../designer_original/images/designer_3.png');">
+                        <div class="image-label">Website Screenshot</div>
+                    </div>
+                    <div class="card-image" style="background-image: url('../designer_original/sketches/designer_3.png');">
+                        <div class="image-label">Designer Sketch</div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="designer_sample_3.html" class="view-btn">View Details</a>
+                </div>
+            </div>
+
+            <div class="sample-card">
+                <div class="card-header">
+                    <h3>Sample 4</h3>
+                    <p>Original ID: 4</p>
+                </div>
+                <div class="card-images">
+                    <div class="card-image" style="background-image: url('../designer_original/images/designer_4.png');">
+                        <div class="image-label">Website Screenshot</div>
+                    </div>
+                    <div class="card-image" style="background-image: url('../designer_original/sketches/designer_4.png');">
+                        <div class="image-label">Designer Sketch</div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a href="designer_sample_4.html" class="view-btn">View Details</a>
+                </div>
+            </div>
+
+        </div>
+        
+        <div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #bdc3c7;">
+            <h4>🚀 Next Steps</h4>
+            <p>These samples will be used to:</p>
+            <ol style="text-align: left; display: inline-block;">
+                <li>Extract individual UI components based on bounding box annotations</li>
+                <li>Create a personalized component library representing the designer's style</li>
+                <li>Generate augmented training data by substituting designer components into other samples</li>
+                <li>Train a LoRA adapter that personalizes the model to this specific sketching style</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>

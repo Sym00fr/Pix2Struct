@@ -1,0 +1,2498 @@
+[
+  {
+    "component_id": "designer_0_comp_0",
+    "type": "header",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 8,
+      "y": 8,
+      "width": 1254,
+      "height": 977
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_0_header.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 977
+    }
+  },
+  {
+    "component_id": "designer_0_comp_1",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 114,
+      "y": 460,
+      "width": 1041,
+      "height": 64
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_1_label.png",
+    "dimensions": {
+      "width": 1041,
+      "height": 64
+    }
+  },
+  {
+    "component_id": "designer_0_comp_2",
+    "type": "navbar",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 8,
+      "y": 985,
+      "width": 1254,
+      "height": 185
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_2_navbar.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 185
+    }
+  },
+  {
+    "component_id": "designer_0_comp_3",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 24,
+      "y": 1058,
+      "width": 108,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_3_label.png",
+    "dimensions": {
+      "width": 108,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_0_comp_4",
+    "type": "button",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 148,
+      "y": 1058,
+      "width": 94,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_4_button.png",
+    "dimensions": {
+      "width": 94,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_0_comp_5",
+    "type": "button",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 242,
+      "y": 1058,
+      "width": 118,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_5_button.png",
+    "dimensions": {
+      "width": 118,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_0_comp_6",
+    "type": "button",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 361,
+      "y": 1058,
+      "width": 110,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_6_button.png",
+    "dimensions": {
+      "width": 110,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_0_comp_7",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1203,
+      "width": 113,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_7_label.png",
+    "dimensions": {
+      "width": 113,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_8",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1235,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_8_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_9",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1203,
+      "width": 48,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_9_label.png",
+    "dimensions": {
+      "width": 48,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_10",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1236,
+      "width": 587,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_10_slider.png",
+    "dimensions": {
+      "width": 587,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_11",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1289,
+      "width": 120,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_11_label.png",
+    "dimensions": {
+      "width": 120,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_12",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1321,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_12_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_13",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 339,
+      "y": 1289,
+      "width": 89,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_13_label.png",
+    "dimensions": {
+      "width": 89,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_14",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 339,
+      "y": 1322,
+      "width": 286,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_14_slider.png",
+    "dimensions": {
+      "width": 286,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_15",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1289,
+      "width": 14,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_15_label.png",
+    "dimensions": {
+      "width": 14,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_16",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1322,
+      "width": 286,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_16_slider.png",
+    "dimensions": {
+      "width": 286,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_17",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 940,
+      "y": 1289,
+      "width": 135,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_17_label.png",
+    "dimensions": {
+      "width": 135,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_18",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 940,
+      "y": 1321,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_18_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_19",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1375,
+      "width": 69,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_19_label.png",
+    "dimensions": {
+      "width": 69,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_20",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1407,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_20_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_21",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 339,
+      "y": 1375,
+      "width": 72,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_21_label.png",
+    "dimensions": {
+      "width": 72,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_22",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 339,
+      "y": 1407,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_22_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_23",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1375,
+      "width": 62,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_23_label.png",
+    "dimensions": {
+      "width": 62,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_24",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1407,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_24_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_25",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 940,
+      "y": 1375,
+      "width": 177,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_25_label.png",
+    "dimensions": {
+      "width": 177,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_26",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 940,
+      "y": 1407,
+      "width": 288,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_26_text.png",
+    "dimensions": {
+      "width": 288,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_27",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1461,
+      "width": 41,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_27_label.png",
+    "dimensions": {
+      "width": 41,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_28",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1494,
+      "width": 1188,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_28_slider.png",
+    "dimensions": {
+      "width": 1188,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_29",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1533,
+      "width": 61,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_29_label.png",
+    "dimensions": {
+      "width": 61,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_30",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1565,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_30_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_31",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1533,
+      "width": 94,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_31_label.png",
+    "dimensions": {
+      "width": 94,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_32",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1565,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_32_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_33",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1619,
+      "width": 163,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_33_label.png",
+    "dimensions": {
+      "width": 163,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_34",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1652,
+      "width": 386,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_34_slider.png",
+    "dimensions": {
+      "width": 386,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_35",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 439,
+      "y": 1619,
+      "width": 33,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_35_label.png",
+    "dimensions": {
+      "width": 33,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_36",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 439,
+      "y": 1651,
+      "width": 388,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_36_text.png",
+    "dimensions": {
+      "width": 388,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_37",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 840,
+      "y": 1619,
+      "width": 33,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_37_label.png",
+    "dimensions": {
+      "width": 33,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_38",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 840,
+      "y": 1651,
+      "width": 388,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_38_text.png",
+    "dimensions": {
+      "width": 388,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_39",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1705,
+      "width": 49,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_39_label.png",
+    "dimensions": {
+      "width": 49,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_40",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1737,
+      "width": 388,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_40_text.png",
+    "dimensions": {
+      "width": 388,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_41",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 439,
+      "y": 1705,
+      "width": 79,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_41_label.png",
+    "dimensions": {
+      "width": 79,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_42",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 439,
+      "y": 1737,
+      "width": 388,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_42_text.png",
+    "dimensions": {
+      "width": 388,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_43",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 840,
+      "y": 1705,
+      "width": 70,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_43_label.png",
+    "dimensions": {
+      "width": 70,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_44",
+    "type": "slider",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 840,
+      "y": 1738,
+      "width": 386,
+      "height": 18
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_44_slider.png",
+    "dimensions": {
+      "width": 386,
+      "height": 18
+    }
+  },
+  {
+    "component_id": "designer_0_comp_45",
+    "type": "checkbox_switch",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1791,
+      "width": 1192,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_45_checkbox_switch.png",
+    "dimensions": {
+      "width": 1192,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_46",
+    "type": "checkbox_label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 75,
+      "y": 1791,
+      "width": 148,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_46_checkbox_label.png",
+    "dimensions": {
+      "width": 148,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_47",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1831,
+      "width": 33,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_47_label.png",
+    "dimensions": {
+      "width": 33,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_48",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1863,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_48_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_49",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1831,
+      "width": 19,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_49_label.png",
+    "dimensions": {
+      "width": 19,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_50",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1863,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_50_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_51",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1917,
+      "width": 72,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_51_label.png",
+    "dimensions": {
+      "width": 72,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_52",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 39,
+      "y": 1949,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_52_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_0_comp_53",
+    "type": "label",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1917,
+      "width": 69,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_53_label.png",
+    "dimensions": {
+      "width": 69,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_0_comp_54",
+    "type": "text",
+    "source_sketch": "designer_0",
+    "bbox": {
+      "x": 640,
+      "y": 1949,
+      "width": 589,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_0_comp_54_text.png",
+    "dimensions": {
+      "width": 589,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_1_comp_0",
+    "type": "navbar",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 1742,
+      "height": 69
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_0_navbar.png",
+    "dimensions": {
+      "width": 1742,
+      "height": 69
+    }
+  },
+  {
+    "component_id": "designer_1_comp_1",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1087,
+      "y": 14,
+      "width": 109,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_1_button.png",
+    "dimensions": {
+      "width": 109,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_2",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1196,
+      "y": 14,
+      "width": 110,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_2_button.png",
+    "dimensions": {
+      "width": 110,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_3",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1306,
+      "y": 14,
+      "width": 109,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_3_button.png",
+    "dimensions": {
+      "width": 109,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_4",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1415,
+      "y": 14,
+      "width": 99,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_4_button.png",
+    "dimensions": {
+      "width": 99,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_5",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1515,
+      "y": 14,
+      "width": 122,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_5_button.png",
+    "dimensions": {
+      "width": 122,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_6",
+    "type": "button",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 1637,
+      "y": 14,
+      "width": 88,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_6_button.png",
+    "dimensions": {
+      "width": 88,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_1_comp_7",
+    "type": "header",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 0,
+      "y": 69,
+      "width": 1742,
+      "height": 182
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_7_header.png",
+    "dimensions": {
+      "width": 1742,
+      "height": 182
+    }
+  },
+  {
+    "component_id": "designer_1_comp_8",
+    "type": "label",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 359,
+      "y": 124,
+      "width": 1022,
+      "height": 64
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_8_label.png",
+    "dimensions": {
+      "width": 1022,
+      "height": 64
+    }
+  },
+  {
+    "component_id": "designer_1_comp_9",
+    "type": "carousel",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 15,
+      "y": 284,
+      "width": 1712,
+      "height": 274
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_9_carousel.png",
+    "dimensions": {
+      "width": 1712,
+      "height": 274
+    }
+  },
+  {
+    "component_id": "designer_1_comp_10",
+    "type": "footer",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 0,
+      "y": 590,
+      "width": 1742,
+      "height": 128
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_10_footer.png",
+    "dimensions": {
+      "width": 1742,
+      "height": 128
+    }
+  },
+  {
+    "component_id": "designer_1_comp_11",
+    "type": "label",
+    "source_sketch": "designer_1",
+    "bbox": {
+      "x": 316,
+      "y": 657,
+      "width": 341,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_1_comp_11_label.png",
+    "dimensions": {
+      "width": 341,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_2_comp_0",
+    "type": "navbar",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 56,
+      "y": 16,
+      "width": 1112,
+      "height": 185
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_0_navbar.png",
+    "dimensions": {
+      "width": 1112,
+      "height": 185
+    }
+  },
+  {
+    "component_id": "designer_2_comp_1",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 945,
+      "y": 88,
+      "width": 100,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_1_button.png",
+    "dimensions": {
+      "width": 100,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_2",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 1046,
+      "y": 88,
+      "width": 105,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_2_button.png",
+    "dimensions": {
+      "width": 105,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_3",
+    "type": "card",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 71,
+      "y": 217,
+      "width": 345,
+      "height": 171
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_3_card.png",
+    "dimensions": {
+      "width": 345,
+      "height": 171
+    }
+  },
+  {
+    "component_id": "designer_2_comp_4",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 238,
+      "width": 305,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_4_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_2_comp_5",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 274,
+      "width": 305,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_5_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_2_comp_6",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 338,
+      "width": 86,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_6_button.png",
+    "dimensions": {
+      "width": 86,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_2_comp_7",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 309,
+      "y": 343,
+      "width": 88,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_7_label.png",
+    "dimensions": {
+      "width": 88,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_2_comp_8",
+    "type": "card",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 71,
+      "y": 402,
+      "width": 345,
+      "height": 171
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_8_card.png",
+    "dimensions": {
+      "width": 345,
+      "height": 171
+    }
+  },
+  {
+    "component_id": "designer_2_comp_9",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 423,
+      "width": 305,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_9_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_2_comp_10",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 459,
+      "width": 305,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_10_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_2_comp_11",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 92,
+      "y": 523,
+      "width": 101,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_11_button.png",
+    "dimensions": {
+      "width": 101,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_2_comp_12",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 316,
+      "y": 528,
+      "width": 80,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_12_label.png",
+    "dimensions": {
+      "width": 80,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_2_comp_13",
+    "type": "card",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 438,
+      "y": 217,
+      "width": 345,
+      "height": 171
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_13_card.png",
+    "dimensions": {
+      "width": 345,
+      "height": 171
+    }
+  },
+  {
+    "component_id": "designer_2_comp_14",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 238,
+      "width": 305,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_14_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_2_comp_15",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 274,
+      "width": 305,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_15_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_2_comp_16",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 338,
+      "width": 91,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_16_button.png",
+    "dimensions": {
+      "width": 91,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_2_comp_17",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 693,
+      "y": 343,
+      "width": 70,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_17_label.png",
+    "dimensions": {
+      "width": 70,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_2_comp_18",
+    "type": "card",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 438,
+      "y": 402,
+      "width": 345,
+      "height": 171
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_18_card.png",
+    "dimensions": {
+      "width": 345,
+      "height": 171
+    }
+  },
+  {
+    "component_id": "designer_2_comp_19",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 423,
+      "width": 305,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_19_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_2_comp_20",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 459,
+      "width": 305,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_20_label.png",
+    "dimensions": {
+      "width": 305,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_2_comp_21",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 459,
+      "y": 523,
+      "width": 109,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_21_button.png",
+    "dimensions": {
+      "width": 109,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_2_comp_22",
+    "type": "label",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 701,
+      "y": 528,
+      "width": 63,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_22_label.png",
+    "dimensions": {
+      "width": 63,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_2_comp_23",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 87,
+      "y": 603,
+      "width": 107,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_23_button.png",
+    "dimensions": {
+      "width": 107,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_24",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 196,
+      "y": 603,
+      "width": 65,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_24_button.png",
+    "dimensions": {
+      "width": 65,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_25",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 263,
+      "y": 603,
+      "width": 66,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_25_button.png",
+    "dimensions": {
+      "width": 66,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_26",
+    "type": "button",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 331,
+      "y": 603,
+      "width": 110,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_26_button.png",
+    "dimensions": {
+      "width": 110,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_2_comp_27",
+    "type": "text",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 87,
+      "y": 645,
+      "width": 1048,
+      "height": 56
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_27_text.png",
+    "dimensions": {
+      "width": 1048,
+      "height": 56
+    }
+  },
+  {
+    "component_id": "designer_2_comp_28",
+    "type": "text",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 681,
+      "height": 56
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_28_text.png",
+    "dimensions": {
+      "width": 681,
+      "height": 56
+    }
+  },
+  {
+    "component_id": "designer_2_comp_29",
+    "type": "text",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 272,
+      "height": 56
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_29_text.png",
+    "dimensions": {
+      "width": 272,
+      "height": 56
+    }
+  },
+  {
+    "component_id": "designer_2_comp_30",
+    "type": "text",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 1135,
+      "height": 80
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_30_text.png",
+    "dimensions": {
+      "width": 1135,
+      "height": 80
+    }
+  },
+  {
+    "component_id": "designer_2_comp_31",
+    "type": "carousel",
+    "source_sketch": "designer_2",
+    "bbox": {
+      "x": 71,
+      "y": 719,
+      "width": 1082,
+      "height": 488
+    },
+    "component_path": "designer_components/sketches/designer_2_comp_31_carousel.png",
+    "dimensions": {
+      "width": 1082,
+      "height": 488
+    }
+  },
+  {
+    "component_id": "designer_3_comp_0",
+    "type": "navbar",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 1482,
+      "height": 63
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_0_navbar.png",
+    "dimensions": {
+      "width": 1482,
+      "height": 63
+    }
+  },
+  {
+    "component_id": "designer_3_comp_1",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 16,
+      "y": 11,
+      "width": 114,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_1_button.png",
+    "dimensions": {
+      "width": 114,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_2",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 130,
+      "y": 11,
+      "width": 100,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_2_button.png",
+    "dimensions": {
+      "width": 100,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_3",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 231,
+      "y": 11,
+      "width": 113,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_3_button.png",
+    "dimensions": {
+      "width": 113,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_4",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 344,
+      "y": 11,
+      "width": 104,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_4_button.png",
+    "dimensions": {
+      "width": 104,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_5",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 449,
+      "y": 11,
+      "width": 107,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_5_button.png",
+    "dimensions": {
+      "width": 107,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_6",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 557,
+      "y": 11,
+      "width": 105,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_6_button.png",
+    "dimensions": {
+      "width": 105,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_7",
+    "type": "header",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 0,
+      "y": 63,
+      "width": 1482,
+      "height": 302
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_7_header.png",
+    "dimensions": {
+      "width": 1482,
+      "height": 302
+    }
+  },
+  {
+    "component_id": "designer_3_comp_8",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 640,
+      "y": 179,
+      "width": 201,
+      "height": 64
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_8_label.png",
+    "dimensions": {
+      "width": 201,
+      "height": 64
+    }
+  },
+  {
+    "component_id": "designer_3_comp_9",
+    "type": "card",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 15,
+      "y": 382,
+      "width": 369,
+      "height": 271
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_9_card.png",
+    "dimensions": {
+      "width": 369,
+      "height": 271
+    }
+  },
+  {
+    "component_id": "designer_3_comp_10",
+    "type": "image",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 16,
+      "y": 383,
+      "width": 369,
+      "height": 100
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_10_image.png",
+    "dimensions": {
+      "width": 369,
+      "height": 100
+    }
+  },
+  {
+    "component_id": "designer_3_comp_11",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 36,
+      "y": 503,
+      "width": 329,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_11_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_3_comp_12",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 36,
+      "y": 539,
+      "width": 329,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_12_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_3_comp_13",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 36,
+      "y": 603,
+      "width": 108,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_13_button.png",
+    "dimensions": {
+      "width": 108,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_3_comp_14",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 297,
+      "y": 609,
+      "width": 68,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_14_label.png",
+    "dimensions": {
+      "width": 68,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_3_comp_15",
+    "type": "card",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 406,
+      "y": 382,
+      "width": 369,
+      "height": 271
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_15_card.png",
+    "dimensions": {
+      "width": 369,
+      "height": 271
+    }
+  },
+  {
+    "component_id": "designer_3_comp_16",
+    "type": "image",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 407,
+      "y": 383,
+      "width": 369,
+      "height": 100
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_16_image.png",
+    "dimensions": {
+      "width": 369,
+      "height": 100
+    }
+  },
+  {
+    "component_id": "designer_3_comp_17",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 427,
+      "y": 503,
+      "width": 329,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_17_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_3_comp_18",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 427,
+      "y": 539,
+      "width": 329,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_18_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_3_comp_19",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 427,
+      "y": 603,
+      "width": 104,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_19_button.png",
+    "dimensions": {
+      "width": 104,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_3_comp_20",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 682,
+      "y": 609,
+      "width": 75,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_20_label.png",
+    "dimensions": {
+      "width": 75,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_3_comp_21",
+    "type": "card",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 798,
+      "y": 382,
+      "width": 369,
+      "height": 271
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_21_card.png",
+    "dimensions": {
+      "width": 369,
+      "height": 271
+    }
+  },
+  {
+    "component_id": "designer_3_comp_22",
+    "type": "image",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 799,
+      "y": 383,
+      "width": 369,
+      "height": 100
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_22_image.png",
+    "dimensions": {
+      "width": 369,
+      "height": 100
+    }
+  },
+  {
+    "component_id": "designer_3_comp_23",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 819,
+      "y": 503,
+      "width": 329,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_23_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_3_comp_24",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 819,
+      "y": 539,
+      "width": 329,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_24_label.png",
+    "dimensions": {
+      "width": 329,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_3_comp_25",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 819,
+      "y": 603,
+      "width": 98,
+      "height": 29
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_25_button.png",
+    "dimensions": {
+      "width": 98,
+      "height": 29
+    }
+  },
+  {
+    "component_id": "designer_3_comp_26",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1065,
+      "y": 609,
+      "width": 84,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_26_label.png",
+    "dimensions": {
+      "width": 84,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_3_comp_27",
+    "type": "descriptive_items",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 15,
+      "y": 667,
+      "width": 1155,
+      "height": 158
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_27_descriptive_items.png",
+    "dimensions": {
+      "width": 1155,
+      "height": 158
+    }
+  },
+  {
+    "component_id": "designer_3_comp_28",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 15,
+      "y": 667,
+      "width": 1155,
+      "height": 38
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_28_label.png",
+    "dimensions": {
+      "width": 1155,
+      "height": 38
+    }
+  },
+  {
+    "component_id": "designer_3_comp_29",
+    "type": "image",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1060,
+      "y": 746,
+      "width": 102,
+      "height": 40
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_29_image.png",
+    "dimensions": {
+      "width": 102,
+      "height": 40
+    }
+  },
+  {
+    "component_id": "designer_3_comp_30",
+    "type": "text_area",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 15,
+      "y": 740,
+      "width": 1025,
+      "height": 67
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_30_text_area.png",
+    "dimensions": {
+      "width": 1025,
+      "height": 67
+    }
+  },
+  {
+    "component_id": "designer_3_comp_31",
+    "type": "footer",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 0,
+      "y": 842,
+      "width": 1185,
+      "height": 255
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_31_footer.png",
+    "dimensions": {
+      "width": 1185,
+      "height": 255
+    }
+  },
+  {
+    "component_id": "designer_3_comp_32",
+    "type": "label",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 47,
+      "y": 908,
+      "width": 332,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_32_label.png",
+    "dimensions": {
+      "width": 332,
+      "height": 19
+    }
+  },
+  {
+    "component_id": "designer_3_comp_33",
+    "type": "sidebar",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1185,
+      "y": 366,
+      "width": 296,
+      "height": 730
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_33_sidebar.png",
+    "dimensions": {
+      "width": 296,
+      "height": 730
+    }
+  },
+  {
+    "component_id": "designer_3_comp_34",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1185,
+      "y": 366,
+      "width": 296,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_34_button.png",
+    "dimensions": {
+      "width": 296,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_3_comp_35",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1185,
+      "y": 414,
+      "width": 296,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_35_button.png",
+    "dimensions": {
+      "width": 296,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_3_comp_36",
+    "type": "button",
+    "source_sketch": "designer_3",
+    "bbox": {
+      "x": 1185,
+      "y": 463,
+      "width": 296,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_3_comp_36_button.png",
+    "dimensions": {
+      "width": 296,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_0",
+    "type": "header",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 0,
+      "width": 1570,
+      "height": 184
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_0_header.png",
+    "dimensions": {
+      "width": 1570,
+      "height": 184
+    }
+  },
+  {
+    "component_id": "designer_4_comp_1",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 710,
+      "y": 56,
+      "width": 148,
+      "height": 64
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_1_label.png",
+    "dimensions": {
+      "width": 148,
+      "height": 64
+    }
+  },
+  {
+    "component_id": "designer_4_comp_2",
+    "type": "sidebar",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 184,
+      "width": 287,
+      "height": 489
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_2_sidebar.png",
+    "dimensions": {
+      "width": 287,
+      "height": 489
+    }
+  },
+  {
+    "component_id": "designer_4_comp_3",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 184,
+      "width": 287,
+      "height": 56
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_3_label.png",
+    "dimensions": {
+      "width": 287,
+      "height": 56
+    }
+  },
+  {
+    "component_id": "designer_4_comp_4",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 241,
+      "width": 287,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_4_button.png",
+    "dimensions": {
+      "width": 287,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_5",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 290,
+      "width": 287,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_5_button.png",
+    "dimensions": {
+      "width": 287,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_6",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 339,
+      "width": 287,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_6_button.png",
+    "dimensions": {
+      "width": 287,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_7",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 388,
+      "width": 287,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_7_button.png",
+    "dimensions": {
+      "width": 287,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_8",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 0,
+      "y": 437,
+      "width": 287,
+      "height": 48
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_8_button.png",
+    "dimensions": {
+      "width": 287,
+      "height": 48
+    }
+  },
+  {
+    "component_id": "designer_4_comp_9",
+    "type": "featured_items",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 287,
+      "y": 200,
+      "width": 1283,
+      "height": 273
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_9_featured_items.png",
+    "dimensions": {
+      "width": 1283,
+      "height": 273
+    }
+  },
+  {
+    "component_id": "designer_4_comp_10",
+    "type": "image",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 549,
+      "y": 216,
+      "width": 117,
+      "height": 117
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_10_image.png",
+    "dimensions": {
+      "width": 117,
+      "height": 117
+    }
+  },
+  {
+    "component_id": "designer_4_comp_11",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 302,
+      "y": 333,
+      "width": 611,
+      "height": 38
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_11_label.png",
+    "dimensions": {
+      "width": 611,
+      "height": 38
+    }
+  },
+  {
+    "component_id": "designer_4_comp_12",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 302,
+      "y": 379,
+      "width": 611,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_12_label.png",
+    "dimensions": {
+      "width": 611,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_4_comp_13",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 544,
+      "y": 419,
+      "width": 123,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_13_button.png",
+    "dimensions": {
+      "width": 123,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_4_comp_14",
+    "type": "image",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 1190,
+      "y": 216,
+      "width": 117,
+      "height": 117
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_14_image.png",
+    "dimensions": {
+      "width": 117,
+      "height": 117
+    }
+  },
+  {
+    "component_id": "designer_4_comp_15",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 943,
+      "y": 333,
+      "width": 611,
+      "height": 38
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_15_label.png",
+    "dimensions": {
+      "width": 611,
+      "height": 38
+    }
+  },
+  {
+    "component_id": "designer_4_comp_16",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 943,
+      "y": 379,
+      "width": 611,
+      "height": 24
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_16_label.png",
+    "dimensions": {
+      "width": 611,
+      "height": 24
+    }
+  },
+  {
+    "component_id": "designer_4_comp_17",
+    "type": "button",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 1193,
+      "y": 419,
+      "width": 109,
+      "height": 36
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_17_button.png",
+    "dimensions": {
+      "width": 109,
+      "height": 36
+    }
+  },
+  {
+    "component_id": "designer_4_comp_18",
+    "type": "footer",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 287,
+      "y": 489,
+      "width": 1283,
+      "height": 184
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_18_footer.png",
+    "dimensions": {
+      "width": 1283,
+      "height": 184
+    }
+  },
+  {
+    "component_id": "designer_4_comp_19",
+    "type": "label",
+    "source_sketch": "designer_4",
+    "bbox": {
+      "x": 373,
+      "y": 556,
+      "width": 357,
+      "height": 19
+    },
+    "component_path": "designer_components/sketches/designer_4_comp_19_label.png",
+    "dimensions": {
+      "width": 357,
+      "height": 19
+    }
+  }
+]

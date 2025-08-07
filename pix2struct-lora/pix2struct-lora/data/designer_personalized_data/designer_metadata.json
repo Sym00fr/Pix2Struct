@@ -1,0 +1,37 @@
+[
+  {
+    "id": "designer_0",
+    "original_id": 0,
+    "sketch_path": "designer_original/sketches/designer_0.png",
+    "image_path": "designer_original/images/designer_0.png",
+    "code_path": "designer_original/code/designer_0.json"
+  },
+  {
+    "id": "designer_1",
+    "original_id": 1,
+    "sketch_path": "designer_original/sketches/designer_1.png",
+    "image_path": "designer_original/images/designer_1.png",
+    "code_path": "designer_original/code/designer_1.json"
+  },
+  {
+    "id": "designer_2",
+    "original_id": 2,
+    "sketch_path": "designer_original/sketches/designer_2.png",
+    "image_path": "designer_original/images/designer_2.png",
+    "code_path": "designer_original/code/designer_2.json"
+  },
+  {
+    "id": "designer_3",
+    "original_id": 3,
+    "sketch_path": "designer_original/sketches/designer_3.png",
+    "image_path": "designer_original/images/designer_3.png",
+    "code_path": "designer_original/code/designer_3.json"
+  },
+  {
+    "id": "designer_4",
+    "original_id": 4,
+    "sketch_path": "designer_original/sketches/designer_4.png",
+    "image_path": "designer_original/images/designer_4.png",
+    "code_path": "designer_original/code/designer_4.json"
+  }
+]

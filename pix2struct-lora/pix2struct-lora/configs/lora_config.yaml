@@ -1,0 +1,122 @@
+# LoRA Configuration for Personalized Sketch-to-Code
+# Configuration for training a LoRA adapter to personalize the model to a designer's style
+
+defaults:
+  - _self_
+
+# Random seed for reproducibility
+seed: 42
+
+# Model configuration
+model:
+  base_model: "google/pix2struct-large"
+  cache_dir: null
+  torch_dtype: "auto"
+  checkpoint_path: "models/checkpoints/last.ckpt"
+
+# LoRA configuration
+lora:
+  r: 16                    # Low rank dimension
+  lora_alpha: 32           # LoRA scaling parameter
+  lora_dropout: 0.1        # LoRA dropout
+  target_modules:          # Modules to apply LoRA to
+    - "query"
+    - "value" 
+    - "key"
+    - "output"
+    - "wi_0"
+    - "wi_1"
+  bias: "none"             # Bias handling
+  #task_type: "SEQ_2_SEQ_LM"
+
+# Data configuration
+data:
+  lora_data_dir: "lora_personalized_data"
+  max_length: 512
+  image_size: [384, 384]
+  
+  # Data mixing weights
+  designer_weight: 3.0        # Higher weight for designer samples
+  personalized_weight: 2.0    # Medium weight for personalized samples  
+  regularization_weight: 1.0  # Normal weight for regularization samples
+
+# Training configuration
+training:
+  learning_rate: 5e-4
+  weight_decay: 0.01
+  warmup_steps: 100
+  max_steps: 2000
+  gradient_clip_val: 1.0
+  accumulate_grad_batches: 4
+  precision: "16-mixed"
+  val_check_interval: 0.25
+  early_stopping_patience: 5
+  limit_val_batches: 0.25
+
+# Loss configuration
+loss:
+  style_consistency_weight: 0.5  # Weight for style consistency loss
+  regularization_lambda: 0.1     # Regularization strength
+
+# Paths
+paths:
+  output_dir: "outputs"
+  checkpoints_dir: "outputs/checkpoints"
+  logs_dir: "outputs/logs"
+  final_adapter_dir: "outputs/final_lora_adapter"
+  base_checkpoint: "models/checkpoints/last.ckpt"
+
+# Logging configuration
+logging:
+  use_wandb: false
+  wandb_project: "pix2struct-lora-personalized"
+  log_every_n_steps: 10
+  save_top_k: 3
+
+# Hardware configuration
+hardware:
+  accelerator: "auto"
+  devices: "auto"
+  strategy: "auto"
+
+# Dataset configuration
+dataset:
+  data_dir: "data/designer_personalized_data"
+  batch_size: 2
+  num_workers: 2
+  max_length: 512
+  max_patches: 96
+  image_size: 384
+  
+  # Dataset weights for training
+  weights:
+    designer: 3.0          # Weight for designer samples
+    personalized: 2.0      # Weight for personalized samples  
+    regularization: 1.0    # Weight for regularization samples
+
+# Data preprocessing
+preprocessing:
+  designer_samples: 10     # Number of designer samples to extract
+  augmented_samples: 100   # Number of augmented samples to create
+  regularization_samples: 200  # Number of regularization samples
+  
+# Callbacks
+callbacks:
+  early_stopping:
+    monitor: "val/loss"
+    patience: 5
+    mode: "min"
+  
+  model_checkpoint:
+    monitor: "val/loss"
+    mode: "min"
+    filename: "lora-{epoch:02d}-{val/loss:.2f}"
+
+# Evaluation
+evaluation:
+  metrics:
+    - "bleu"
+    - "rouge"
+    - "exact_match"
+  generate_samples: true
+  num_eval_samples: 10 
