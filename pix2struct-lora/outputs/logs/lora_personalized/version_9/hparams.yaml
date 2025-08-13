@@ -1,0 +1,3 @@
+model_name: google/pix2struct-large
+checkpoint_path: models/checkpoints/last.ckpt
+learning_rate: 0.0005
